@@ -1,0 +1,509 @@
+Year,Rank,Player,Team,Salary
+2016,1,Kobe Bryant,Los Angeles Lakers,25000000
+2016,2,LeBron James,Cleveland Cavaliers,22970500
+2016,3,Carmelo Anthony,New York Knicks,22875000
+2016,4,Dwight Howard,Houston Rockets,22359364
+2016,5,Chris Bosh,Miami Heat,22192730
+2016,6,Chris Paul,LA Clippers,21468695
+2016,7,Kevin Durant,Oklahoma City Thunder,20158622
+2016,8,Derrick Rose,Chicago Bulls,20093064
+2016,9,Dwyane Wade,Miami Heat,20000000
+2016,10,LaMarcus Aldridge,San Antonio Spurs,19689000
+2016,11,Brook Lopez,Brooklyn Nets,19689000
+2016,12,Kevin Love,Cleveland Cavaliers,19689000
+2016,13,DeAndre Jordan,LA Clippers,19689000
+2016,14,Marc Gasol,Memphis Grizzlies,19688000
+2016,15,Blake Griffin,LA Clippers,18907726
+2016,16,Paul Millsap,Atlanta Hawks,18671659
+2016,17,Paul George,Indiana Pacers,17120106
+2016,18,Russell Westbrook,Oklahoma City Thunder,16744218
+2016,19,Kyrie Irving,Cleveland Cavaliers,16407501
+2016,20,Greg Monroe,Milwaukee Bucks,16407500
+2016,21,Jimmy Butler III,Chicago Bulls,16407500
+2016,22,Kawhi Leonard,San Antonio Spurs,16407500
+2016,23,Enes Freedom,Oklahoma City Thunder,16407500
+2016,24,Wesley Matthews,Dallas Mavericks,16407500
+2016,25,Tobias Harris,Detroit Pistons,16000000
+2016,26,John Wall,Washington Wizards,15851950
+2016,27,DeMarcus Cousins,Sacramento Kings,15851950
+2016,28,James Harden,Houston Rockets,15756438
+2016,29,Roy Hibbert,Los Angeles Lakers,15592217
+2016,30,Eric Gordon,New Orleans Pelicans,15514031
+2016,31,Klay Thompson,Golden State Warriors,15501000
+2016,32,Gordon Hayward,Utah Jazz,15409570
+2016,33,Chandler Parsons,Dallas Mavericks,15361500
+2016,34,Goran Dragic,Miami Heat,14783000
+2016,35,Khris Middleton,Milwaukee Bucks,14700000
+2016,36,Draymond Green,Golden State Warriors,14260870
+2016,37,Tristan Thompson,Cleveland Cavaliers,14260870
+2016,38,Danilo Gallinari,Denver Nuggets,14000000
+2016,39,Reggie Jackson,Detroit Pistons,13913044
+2016,40,Andrew Bogut,Golden State Warriors,13800000
+2016,41,DeMarre Carroll,Toronto Raptors,13600000
+2016,42,Eric Bledsoe,Phoenix Suns,13500000
+2016,43,Al Jefferson,Charlotte Hornets,13500000
+2016,44,Brandon Knight,Phoenix Suns,13500000
+2016,45,Tony Parker,San Antonio Spurs,13437500
+2016,46,Joakim Noah,Chicago Bulls,13400000
+2016,47,Nicolas Batum,Charlotte Hornets,13125306
+2016,48,Tyson Chandler,Phoenix Suns,13000000
+2016,49,Nene Hilario,Washington Wizards,13000000
+2016,50,Ricky Rubio,Minnesota Timberwolves,12700000
+2016,51,Robin Lopez,New York Knicks,12650000
+2016,52,Rudy Gay,Sacramento Kings,12403101
+2016,53,Serge Ibaka,Oklahoma City Thunder,12250000
+2016,54,Nikola Pekovic,Minnesota Timberwolves,12100000
+2016,55,Kyle Lowry,Toronto Raptors,12000000
+2016,56,Amir Johnson,Boston Celtics,12000000
+2016,57,Kemba Walker,Charlotte Hornets,12000000
+2016,58,Derrick Favors,Utah Jazz,12000000
+2016,59,Al Horford,Atlanta Hawks,12000000
+2016,60,Andre Iguodala,Golden State Warriors,11710456
+2016,61,Stephen Curry,Golden State Warriors,11370786
+2016,62,Nikola Vucevic,Orlando Magic,11250000
+2016,63,Thaddeus Young,Brooklyn Nets,11235955
+2016,64,Kenneth Faried,Denver Nuggets,11235955
+2016,65,Marcin Gortat,Washington Wizards,11217391
+2016,66,Tyreke Evans,New Orleans Pelicans,10734586
+2016,67,Jrue Holiday,New Orleans Pelicans,10595507
+2016,68,Brendan Haywood,Portland Trail Blazers,10522500
+2016,69,Wilson Chandler,Brooklyn Nets,10449438
+2016,70,Monta Ellis,Indiana Pacers,10300000
+2016,71,Luol Deng,Miami Heat,10151612
+2016,72,Gerald Wallace,Philadelphia 76ers,10105855
+2016,73,DeMar DeRozan,Toronto Raptors,10050000
+2016,74,Danny Green,San Antonio Spurs,10000000
+2016,75,Tiago Splitter,Atlanta Hawks,9756250
+2016,76,Jeff Green,LA Clippers,9650000
+2016,77,Zach Randolph,Memphis Grizzlies,9638555
+2016,78,Mike Conley,Memphis Grizzlies,9588426
+2016,79,Rajon Rondo,Sacramento Kings,9500000
+2016,80,Alec Burks,Utah Jazz,9463484
+2016,81,Omer Asik,New Orleans Pelicans,9213483
+2016,82,Lance Stephenson,Memphis Grizzlies,9000000
+2016,83,Iman Shumpert,Cleveland Cavaliers,8988765
+2016,84,Kevin Garnett,Minnesota Timberwolves,8500000
+2016,85,Ryan Anderson,New Orleans Pelicans,8500000
+2016,86,Taj Gibson,Chicago Bulls,8500000
+2016,87,Brandon Jennings,Orlando Magic,8344497
+2016,88,Dirk Nowitzki,Dallas Mavericks,8333334
+2016,89,Corey Brewer,Houston Rockets,8229375
+2016,90,Trevor Ariza,Houston Rockets,8193030
+2016,91,Channing Frye,Cleveland Cavaliers,8193029
+2016,92,Al-Farouq Aminu,Portland Trail Blazers,8042895
+2016,93,Arron Afflalo,New York Knicks,8000000
+2016,94,Jeff Teague,Atlanta Hawks,8000000
+2016,95,O.J. Mayo,Milwaukee Bucks,8000000
+2016,96,George Hill,Indiana Pacers,8000000
+2016,97,Markieff Morris,Washington Wizards,8000000
+2016,98,Ersan Ilyasova,Orlando Magic,7900000
+2016,99,Avery Bradley,Boston Celtics,7730337
+2016,100,Kosta Koufos,Sacramento Kings,7700000
+2016,101,Boris Diaw,San Antonio Spurs,7500000
+2016,102,Pau Gasol,Chicago Bulls,7448760
+2016,103,Jose Calderon,New York Knicks,7402812
+2016,104,JJ Redick,LA Clippers,7085000
+2016,105,Anthony Davis,New Orleans Pelicans,7070730
+2016,106,Marvin Williams,Charlotte Hornets,7000000
+2016,107,Cory Joseph,Toronto Raptors,7000000
+2016,108,Rodney Stuckey,Indiana Pacers,7000000
+2016,109,Lou Williams,Los Angeles Lakers,7000000
+2016,110,Ed Davis,Portland Trail Blazers,6980802
+2016,111,Isaiah Thomas,Boston Celtics,6912869
+2016,112,Jae Crowder,Boston Celtics,6796117
+2016,113,Greivis Vasquez,Milwaukee Bucks,6600000
+2016,114,Aron Baynes,Detroit Pistons,6500000
+2016,115,Carl Landry,Philadelphia 76ers,6500000
+2016,116,Patrick Beverley,Houston Rockets,6486486
+2016,117,Michael Kidd-Gilchrist,Charlotte Hornets,6331404
+2016,118,Jarrett Jack,Brooklyn Nets,6300000
+2016,119,Jodie Meeks,Detroit Pistons,6270000
+2016,120,Patrick Patterson,Toronto Raptors,6268675
+2016,121,Spencer Hawes,Charlotte Hornets,6110034
+2016,122,Marco Belinelli,Sacramento Kings,6060606
+2016,123,Gerald Henderson,Portland Trail Blazers,6000000
+2016,124,Andrew Wiggins,Minnesota Timberwolves,5758680
+2016,125,Kyle Korver,Atlanta Hawks,5746479
+2016,126,Karl-Anthony Towns,Minnesota Timberwolves,5703600
+2016,127,Bradley Beal,Washington Wizards,5694674
+2016,128,Jamal Crawford,LA Clippers,5675000
+2016,129,Courtney Lee,Charlotte Hornets,5675000
+2016,130,Martell Webster,New Orleans Pelicans,5613500
+2016,131,Nikola Mirotic,Chicago Bulls,5543725
+2016,132,Shaun Livingston,Golden State Warriors,5543725
+2016,133,Josh McRoberts,Miami Heat,5543725
+2016,134,Mirza Teletovic,Phoenix Suns,5500000
+2016,135,P.J. Tucker,Phoenix Suns,5500000
+2016,136,Brandan Wright,Memphis Grizzlies,5464000
+2016,137,Deron Williams,Dallas Mavericks,5378974
+2016,138,Tim Duncan,San Antonio Spurs,5250000
+2016,139,Nick Young,Los Angeles Lakers,5219169
+2016,140,Zaza Pachulia,Dallas Mavericks,5200000
+2016,141,Victor Oladipo,Orlando Magic,5192520
+2016,142,Tony Allen,Memphis Grizzlies,5158539
+2016,143,Jabari Parker,Milwaukee Bucks,5152440
+2016,144,Dion Waiters,Oklahoma City Thunder,5138430
+2016,145,D'Angelo Russell,Los Angeles Lakers,5103120
+2016,146,Chris Kaman,Portland Trail Blazers,5016000
+2016,147,Darren Collison,Sacramento Kings,5013559
+2016,148,C.J. Watson,Orlando Magic,5000000
+2016,149,JR Smith,Cleveland Cavaliers,5000000
+2016,150,Jonas Jerebko,Boston Celtics,5000000
+2016,151,Marcus Morris Sr.,Detroit Pistons,5000000
+2016,152,Chris Andersen,Memphis Grizzlies,5000000
+2016,153,Timofey Mozgov,Cleveland Cavaliers,4950000
+2016,154,Trevor Booker,Utah Jazz,4775000
+2016,155,Otto Porter Jr.,Washington Wizards,4662960
+2016,156,Jonas Valanciunas,Toronto Raptors,4660482
+2016,157,Joel Embiid,Philadelphia 76ers,4626960
+2016,158,Jahlil Okafor,Philadelphia 76ers,4582680
+2016,159,Kyle Singler,Oklahoma City Thunder,4500000
+2016,160,Mike Dunleavy,Chicago Bulls,4500000
+2016,161,CJ Miles,Indiana Pacers,4394225
+2016,162,Alexis Ajinca,New Orleans Pelicans,4389607
+2016,163,Jared Dudley,Washington Wizards,4375000
+2016,164,Jameer Nelson,Denver Nuggets,4345000
+2016,165,Mario Chalmers,Memphis Grizzlies,4300000
+2016,166,Jason Smith,Orlando Magic,4300000
+2016,167,J.J. Barea,Dallas Mavericks,4290000
+2016,168,Damian Lillard,Portland Trail Blazers,4236287
+2016,169,Cody Zeller,Charlotte Hornets,4204200
+2016,170,Aaron Gordon,Orlando Magic,4171680
+2016,171,Kristaps Porzingis,New York Knicks,4131720
+2016,172,Vince Carter,Memphis Grizzlies,4088019
+2016,173,Devin Harris,Dallas Mavericks,4053446
+2016,174,Lavoy Allen,Indiana Pacers,4050000
+2016,175,Ian Mahinmi,Indiana Pacers,4000000
+2016,176,Jordan Hill,Indiana Pacers,4000000
+2016,177,Derrick Williams,New York Knicks,4000000
+2016,178,Alan Anderson,Washington Wizards,4000000
+2016,179,Thabo Sefolosha,Atlanta Hawks,4000000
+2016,180,Raymond Felton,Dallas Mavericks,3950313
+2016,181,Nemanja Bjelica,Minnesota Timberwolves,3950001
+2016,182,Harrison Barnes,Golden State Warriors,3873398
+2016,183,Marreese Speights,Golden State Warriors,3815000
+2016,184,Alex Len,Phoenix Suns,3807120
+2016,185,Dante Exum,Dallas Mavericks,3777720
+2016,186,Nick Collison,Oklahoma City Thunder,3750000
+2016,187,Kyle O'Quinn,New York Knicks,3750000
+2016,188,Patty Mills,San Antonio Spurs,3578947
+2016,189,Terrence Ross,Toronto Raptors,3553917
+2016,190,Matt Barnes,Memphis Grizzlies,3542500
+2016,191,Will Barton,Denver Nuggets,3533333
+2016,192,Nerlens Noel,Philadelphia 76ers,3457800
+2016,193,Marcus Smart,Boston Celtics,3431040
+2016,194,Bojan Bogdanovic,Brooklyn Nets,3425510
+2016,195,Evan Turner,Boston Celtics,3425510
+2016,196,Willie Cauley-Stein,Sacramento Kings,3398280
+2016,197,Quincy Pondexter,San Antonio Spurs,3382023
+2016,198,Paul Pierce,LA Clippers,3376000
+2016,199,Anthony Morrow,Oklahoma City Thunder,3344000
+2016,200,Mike Scott,Atlanta Hawks,3333333
+2016,201,Drew Gooden,Washington Wizards,3300000
+2016,202,Andre Drummond,Detroit Pistons,3272091
+2016,203,KJ McDaniels,Houston Rockets,3189794
+2016,204,Ben McLemore,Sacramento Kings,3156600
+2016,205,Randy Foye,Oklahoma City Thunder,3135000
+2016,206,Julius Randle,Los Angeles Lakers,3132240
+2016,207,Austin Rivers,LA Clippers,3110796
+2016,208,Emmanuel Mudiay,Denver Nuggets,3102240
+2016,209,Meyers Leonard,Portland Trail Blazers,3075880
+2016,210,Jeremy Lamb,Charlotte Hornets,3034356
+2016,211,Jerryd Bayless,Milwaukee Bucks,3000000
+2016,212,Brandon Bass,Los Angeles Lakers,3000000
+2016,213,D.J. Augustin,Denver Nuggets,3000000
+2016,214,Anthony Tolliver,Detroit Pistons,3000000
+2016,215,John Henson,Milwaukee Bucks,2943221
+2016,216,Tibor Pleiss,Utah Jazz,2900000
+2016,217,Luis Scola,Toronto Raptors,2900000
+2016,218,Maurice Harkless,Portland Trail Blazers,2894059
+2016,219,Kentavious Caldwell-Pope,Detroit Pistons,2891760
+2016,220,Nik Stauskas,Philadelphia 76ers,2869440
+2016,221,Brian Roberts,Portland Trail Blazers,2854940
+2016,222,Udonis Haslem,Miami Heat,2854940
+2016,223,Kirk Hinrich,Atlanta Hawks,2854940
+2016,224,Dante Cunningham,New Orleans Pelicans,2850000
+2016,225,Stanley Johnson,Detroit Pistons,2841960
+2016,226,Furkan Aldemir,Philadelphia 76ers,2836768
+2016,227,Omri Casspi,Sacramento Kings,2836186
+2016,228,Bismack Biyombo,Toronto Raptors,2814000
+2016,229,Manu Ginobili,San Antonio Spurs,2814000
+2016,230,Darrell Arthur,Denver Nuggets,2814000
+2016,231,Sonny Weems,Philadelphia 76ers,2814000
+2016,232,Kevin Seraphin,New York Knicks,2814000
+2016,233,Luke Ridnour,Toronto Raptors,2750000
+2016,234,Trey Burke,Utah Jazz,2658240
+2016,235,Noah Vonleh,Portland Trail Blazers,2637720
+2016,236,Tyler Zeller,Boston Celtics,2616975
+2016,237,Frank Kaminsky,Charlotte Hornets,2612520
+2016,238,Jared Sullinger,Boston Celtics,2569260
+2016,239,CJ McCollum,Portland Trail Blazers,2525160
+2016,240,Leandro Barbosa,Golden State Warriors,2500000
+2016,241,James Johnson,Toronto Raptors,2500000
+2016,242,Justise Winslow,Miami Heat,2481720
+2016,243,Shelvin Mack,Utah Jazz,2433333
+2016,244,Michael Carter-Williams,Milwaukee Bucks,2399040
+2016,245,Doug McDermott,Chicago Bulls,2380440
+2016,246,Myles Turner,Indiana Pacers,2357760
+2016,247,Evan Fournier,Orlando Magic,2288205
+2016,248,Steven Adams,Oklahoma City Thunder,2279040
+2016,249,Aaron Brooks,Chicago Bulls,2250000
+2016,250,Trey Lyles,Utah Jazz,2239800
+2016,251,Ramon Sessions,Washington Wizards,2170465
+2016,252,Danny Granger,Detroit Pistons,2170465
+2016,253,Beno Udrih,Miami Heat,2170465
+2016,254,Steve Blake,Detroit Pistons,2170465
+2016,255,Kelly Olynyk,Boston Celtics,2165160
+2016,256,Zach LaVine,Minnesota Timberwolves,2148360
+2016,257,Kendall Marshall,Philadelphia 76ers,2144772
+2016,258,Jeremy Lin,Charlotte Hornets,2139000
+2016,259,Gary Neal,Washington Wizards,2139000
+2016,260,Devin Booker,Phoenix Suns,2127840
+2016,261,Miles Plumlee,Milwaukee Bucks,2109294
+2016,262,Mo Williams,Cleveland Cavaliers,2100000
+2016,263,David Lee,Dallas Mavericks,2085671
+2016,264,Shabazz Muhammad,Minnesota Timberwolves,2056920
+2016,265,Joe Ingles,Utah Jazz,2050000
+2016,266,T.J. Warren,Phoenix Suns,2041080
+2016,267,Perry Jones,New Orleans Pelicans,2038206
+2016,268,Cameron Payne,Oklahoma City Thunder,2021520
+2016,269,Festus Ezeli,Golden State Warriors,2008748
+2016,270,Kent Bazemore,Atlanta Hawks,2000000
+2016,271,DeJuan Blair,Washington Wizards,2000000
+2016,272,Giannis Antetokounmpo,Milwaukee Bucks,1953960
+2016,273,Adreian Payne,Minnesota Timberwolves,1938840
+2016,274,Kelly Oubre Jr.,Washington Wizards,1920240
+2016,275,Lucas Nogueira,Toronto Raptors,1842000
+2016,276,Jusuf Nurkic,Denver Nuggets,1842000
+2016,277,Terry Rozier,Boston Celtics,1824360
+2016,278,Dennis Schroder,Atlanta Hawks,1763400
+2016,279,James Young,Boston Celtics,1749840
+2016,280,Rashad Vaughn,Milwaukee Bucks,1733040
+2016,281,Ryan Kelly,Los Angeles Lakers,1724250
+2016,282,Joffrey Lauvergne,Denver Nuggets,1709719
+2016,283,Zoran Dragic,Boston Celtics,1706225
+2016,284,Tyler Ennis,Milwaukee Bucks,1662360
+2016,285,Sam Dekker,Houston Rockets,1646400
+2016,286,Lance Thomas,New York Knicks,1636842
+2016,287,Lou Amundson,New York Knicks,1635476
+2016,288,Sergey Karasev,Brooklyn Nets,1599840
+2016,289,Gary Harris,Denver Nuggets,1584480
+2016,290,Jerian Grant,New York Knicks,1572360
+2016,291,Tony Snell,Chicago Bulls,1535880
+2016,292,Delon Wright,Toronto Raptors,1509360
+2016,293,Wayne Ellington,Brooklyn Nets,1500000
+2016,294,Shane Larkin,Brooklyn Nets,1500000
+2016,295,David West,San Antonio Spurs,1499187
+2016,296,Gorgui Dieng,Minnesota Timberwolves,1474440
+2016,297,Mitch McGary,Oklahoma City Thunder,1463040
+2016,298,Caron Butler,Sacramento Kings,1449187
+2016,299,Justin Anderson,Dallas Mavericks,1449000
+2016,300,Mason Plumlee,Portland Trail Blazers,1415520
+2016,301,Jordan Adams,Memphis Grizzlies,1404600
+2016,302,Bobby Portis,Chicago Bulls,1391160
+2016,303,Andrea Bargnani,Brooklyn Nets,1362897
+2016,304,Solomon Hill,Indiana Pacers,1358880
+2016,305,Rodney Hood,Utah Jazz,1348440
+2016,306,Rondae Hollis Jefferson,Brooklyn Nets,1335480
+2016,307,Alonzo Gee,New Orleans Pelicans,1320000
+2016,308,Tim Hardaway Jr.,Atlanta Hawks,1304520
+2016,309,Nikola Jokic,Denver Nuggets,1300000
+2016,310,Shabazz Napier,Orlando Magic,1294440
+2016,311,Tyus Jones,Minnesota Timberwolves,1282080
+2016,312,Sasha Kaun,Cleveland Cavaliers,1276000
+2016,313,JaVale McGee,Dallas Mavericks,1270964
+2016,314,Cartier Martin,Detroit Pistons,1270964
+2016,315,Reggie Bullock Jr.,Detroit Pistons,1252440
+2016,316,Clint Capela,Houston Rockets,1242720
+2016,317,Jarell Martin,Memphis Grizzlies,1230840
+2016,318,Andre Roberson,Oklahoma City Thunder,1210800
+2016,319,P.J. Hairston,Memphis Grizzlies,1201440
+2016,320,Boban Marjanovic,San Antonio Spurs,1200000
+2016,321,Earl Clark,Brooklyn Nets,1185784
+2016,322,Reggie Williams,New Orleans Pelicans,1185784
+2016,323,Rudy Gobert,Utah Jazz,1175880
+2016,324,Jordan Mickey,Boston Celtics,1170960
+2016,325,Toney Douglas,New Orleans Pelicans,1164858
+2016,326,Archie Goodwin,Phoenix Suns,1160160
+2016,327,CJ Wilcox,LA Clippers,1159680
+2016,328,Larry Nance Jr.,Los Angeles Lakers,1155600
+2016,329,Chris Copeland,Milwaukee Bucks,1150000
+2016,330,Damjan Rudez,Minnesota Timberwolves,1149500
+2016,331,RJ Hunter,Boston Celtics,1148640
+2016,332,Matthew Dellavedova,Cleveland Cavaliers,1147276
+2016,333,Kyle Anderson,San Antonio Spurs,1142880
+2016,334,Josh Huestis,Oklahoma City Thunder,1140240
+2016,335,Chris McCullough,Brooklyn Nets,1140240
+2016,336,Kevon Looney,Golden State Warriors,1131960
+2016,337,Garrett Temple,Washington Wizards,1100602
+2016,338,Wesley Johnson,LA Clippers,1100602
+2016,339,Luke Babbitt,New Orleans Pelicans,1100602
+2016,340,Henry Walker,Miami Heat,1100602
+2016,341,Jeremy Evans,Dallas Mavericks,1100602
+2016,342,Cole Aldrich,LA Clippers,1100602
+2016,343,Glenn Robinson III,Indiana Pacers,1100000
+2016,344,Richaun Holmes,Philadelphia 76ers,1074169
+2016,345,Jon Leuer,Phoenix Suns,1035000
+2016,346,James Anderson,Sacramento Kings,1015421
+2016,347,E'Twaun Moore,Chicago Bulls,1015421
+2016,348,Lester Hudson,LA Clippers,1015421
+2016,349,Joey Dorsey,Barcelona FC Barcelona,1015421
+2016,350,Jordan Hamilton,New Orleans Pelicans,1015421
+2016,351,Rakeem Christmas,Indiana Pacers,1007026
+2016,352,Joe Young,Indiana Pacers,1007026
+2016,353,Montrezl Harrell,Houston Rockets,1000000
+2016,354,Robert Covington,Philadelphia 76ers,1000000
+2016,355,Kris Humphries,Atlanta Hawks,1000000
+2016,356,Hassan Whiteside,Miami Heat,981348
+2016,357,Quincy Acy,Sacramento Kings,981348
+2016,358,Jerel McNeal,Phoenix Suns,981348
+2016,359,John Jenkins,Phoenix Suns,981348
+2016,360,Chris Johnson,Utah Jazz,981348
+2016,361,Robert Sacre,Los Angeles Lakers,981348
+2016,362,Thomas Robinson,Brooklyn Nets,981348
+2016,363,Pablo Prigioni,LA Clippers,947726
+2016,364,Seth Curry,Sacramento Kings,947276
+2016,365,Ish Smith,Philadelphia 76ers,947276
+2016,366,Tyler Hansbrough,Charlotte Hornets,947276
+2016,367,Henry Sims,Brooklyn Nets,947276
+2016,368,Mike Muscala,Atlanta Hawks,947276
+2016,369,Matt Bonner,San Antonio Spurs,947276
+2016,370,Hollis Thompson,Philadelphia 76ers,947276
+2016,371,Grant Jerrett,Portland Trail Blazers,947276
+2016,372,Ronnie Price,Phoenix Suns,947276
+2016,373,Dewayne Dedmon,Orlando Magic,947276
+2016,374,Ricky Ledo,New York Knicks,947276
+2016,375,Sasha Vujacic,New York Knicks,947276
+2016,376,Allen Crabbe,Portland Trail Blazers,947276
+2016,377,John Lucas III,Minnesota Timberwolves,947276
+2016,378,Rasual Butler,San Antonio Spurs,947276
+2016,379,Tayshaun Prince,Minnesota Timberwolves,947276
+2016,380,Isaiah Canaan,Philadelphia 76ers,947276
+2016,381,Jason Terry,Houston Rockets,947276
+2016,382,Amar'e Stoudemire,Miami Heat,947276
+2016,383,Metta World Peace,Los Angeles Lakers,947276
+2016,384,Damien Wilkins,Indiana Pacers,947276
+2016,385,Anthony Bennett,Toronto Raptors,947276
+2016,386,Luc Mbah a Moute,LA Clippers,947276
+2016,387,Chuck Hayes,Houston Rockets,947276
+2016,388,Gerald Green,Miami Heat,947276
+2016,389,Chris Babb,Golden State Warriors,947276
+2016,390,Jared Cunningham,Milwaukee Bucks,947276
+2016,391,Jamaal Franklin,Denver Nuggets,947276
+2016,392,Troy Daniels,Charlotte Hornets,947276
+2016,393,Justin Holiday,Chicago Bulls,947276
+2016,394,Donald Sloan,Brooklyn Nets,947276
+2016,395,Richard Jefferson,Cleveland Cavaliers,947276
+2016,396,Mike Miller,Denver Nuggets,947276
+2016,397,Jeff Withey,Utah Jazz,947276
+2016,398,Charlie Villanueva,Dallas Mavericks,947276
+2016,399,Samuel Dalembert,Dallas Mavericks,947276
+2016,400,Austin Daye,Cleveland Cavaliers,947276
+2016,401,Kendrick Perkins,New Orleans Pelicans,947276
+2016,402,James Jones,Cleveland Cavaliers,947276
+2016,403,Willie Reed,Brooklyn Nets,947276
+2016,404,Ian Clark,Golden State Warriors,947276
+2016,405,Nate Robinson,New Orleans Pelicans,947276
+2016,406,Josh Smith,Houston Rockets,947276
+2016,407,Jason Richardson,Atlanta Hawks,947276
+2016,408,Raul Neto,Utah Jazz,900000
+2016,409,Jimmer Fredette,New York Knicks,874837
+2016,410,Damien Inglis,Milwaukee Bucks,855000
+2016,411,Jarnell Stokes,Miami Heat,845059
+2016,412,Russ Smith,Memphis Grizzlies,845059
+2016,413,Jordan Clarkson,Los Angeles Lakers,845059
+2016,414,Eric Moreland,Sacramento Kings,845059
+2016,415,Markel Brown,Brooklyn Nets,845059
+2016,416,Nick Johnson,San Antonio Spurs,845059
+2016,417,Tyler Johnson,Miami Heat,845059
+2016,418,Jack Cooley,Sacramento Kings,845059
+2016,419,Jerami Grant,Philadelphia 76ers,845059
+2016,420,Terrico White,Perth Perth,845059
+2016,421,James Michael McAdoo,Golden State Warriors,845059
+2016,422,Cleanthony Early,New York Knicks,845059
+2016,423,Johnny O'Bryant III,Milwaukee Bucks,845059
+2016,424,Jabari Brown,Milwaukee Bucks,845059
+2016,425,Marcus Landry,Milwaukee Bucks,845059
+2016,426,Keith Benson,Miami Heat,845059
+2016,427,Spencer Dinwiddie,Detroit Pistons,845059
+2016,428,David Stockton,Los Angeles Lakers,845059
+2016,429,Langston Galloway,New York Knicks,845059
+2016,430,Shayne Whittington,Indiana Pacers,845059
+2016,431,Devyn Marble,Orlando Magic,845059
+2016,432,JaMychal Green,Memphis Grizzlies,845059
+2016,433,Adonis Thomas,Detroit Pistons,845059
+2016,434,Joe Harris,Cleveland Cavaliers,845059
+2016,435,Cameron Bairstow,Chicago Bulls,845059
+2016,436,James Ennis III,New Orleans Pelicans,845059
+2016,437,Tarik Black,Los Angeles Lakers,845059
+2016,438,Elijah Millsap,Utah Jazz,845059
+2016,439,Dwight Powell,Dallas Mavericks,845059
+2016,440,Tim Frazier,New Orleans Pelicans,845059
+2016,441,Kostas Papanikolaou,Denver Nuggets,800321
+2016,442,Bryce Cotton,Memphis Grizzlies,700902
+2016,443,Norman Powell,Toronto Raptors,650000
+2016,444,Pat Connaughton,Portland Trail Blazers,625093
+2016,445,Darrun Hilliard,Detroit Pistons,600000
+2016,446,Jarell Eddie,Washington Wizards,561716
+2016,447,Jarrid Famous,Memphis Grizzlies,525093
+2016,448,Ronald Roberts Jr.,Toronto Raptors,525093
+2016,449,Jonathon Simmons,San Antonio Spurs,525093
+2016,450,Duje Dukan,Sacramento Kings,525093
+2016,451,Deonte Burton,Phoenix Suns,525093
+2016,452,Kyle Casey,Phoenix Suns,525093
+2016,453,Scottie Wilbekin,Philadelphia 76ers,525093
+2016,454,Branden Dawson,LA Clippers,525093
+2016,455,Melvin Ejim,Orlando Magic,525093
+2016,456,Maurice Ndour,New York Knicks,525093
+2016,457,Shannon Scott,Brooklyn Nets,525093
+2016,458,Treveon Graham,Milwaukee Bucks,525093
+2016,459,J.J. O'Brien,Utah Jazz,525093
+2016,460,Josh Richardson,Miami Heat,525093
+2016,461,Corey Hawkins,Miami Heat,525093
+2016,462,Christian Wood,Philadelphia 76ers,525093
+2016,463,Robert Upshaw,Los Angeles Lakers,525093
+2016,464,Jamil Wilson,Los Angeles Lakers,525093
+2016,465,T.J. McConnell,Philadelphia 76ers,525093
+2016,466,Michael Frazier II,Houston Rockets,525093
+2016,467,Marcelinho Huertas,Los Angeles Lakers,525093
+2016,468,Luis Montero,Portland Trail Blazers,525093
+2016,469,Greg Whittington,Denver Nuggets,525093
+2016,470,Aaron Harrison,Charlotte Hornets,525093
+2016,471,Brandon Ashley,New Zealand Breakers,525093
+2016,472,Salah Mejri,Dallas Mavericks,525093
+2016,473,Pierre Jackson,Dallas Mavericks,525093
+2016,474,Cristiano Felicio,Chicago Bulls,525093
+2016,475,Cliff Alexander,Portland Trail Blazers,525093
+2016,476,Bo McCalebb,New Orleans Pelicans,525093
+2016,477,Jonathan Holmes,Boston Celtics,525093
+2016,478,Terran Petteway,Atlanta Hawks,525093
+2016,479,Lamar Patterson,Atlanta Hawks,525093
+2016,480,Michael Beasley,Houston Rockets,306527
+2016,481,Steve Novak,Milwaukee Bucks,295327
+2016,482,Anderson Varejao,Golden State Warriors,289755
+2016,483,JJ Hickson,Washington Wizards,273038
+2016,484,Joe Johnson,Miami Heat,261894
+2016,485,JaKarr Sampson,Denver Nuggets,258489
+2016,486,Andre Miller,San Antonio Spurs,250750
+2016,487,Jason Thompson,Toronto Raptors,245177
+2016,488,Ryan Hollins,Washington Wizards,239605
+2016,489,Nazr Mohammed,Oklahoma City Thunder,222888
+2016,490,Ty Lawson,Indiana Pacers,211744
+2016,491,Chase Budinger,Phoenix Suns,206192
+2016,492,Kevin Martin,San Antonio Spurs,200600
+2016,493,Marcus Thornton,Washington Wizards,200600
+2016,494,Andrew Goudelock,Houston Rockets,200600
+2016,495,Jorge Gutierrez,Charlotte Hornets,189455
+2016,496,Bryce Dejean-Jones,New Orleans Pelicans,169883
+2016,497,Tony Wroten,Philadelphia 76ers,167406
+2016,498,Sean Kilpatrick,Brooklyn Nets,134215
+2016,499,Jeff Ayres,LA Clippers,111444
+2016,500,Jordan McRae,Cleveland Cavaliers,111196
+2016,501,Erick Green,Utah Jazz,99418
+2016,502,Alan Williams,Phoenix Suns,83397
+2016,503,Keith Appling,Orlando Magic,61776
+2016,504,Orlando Johnson,New Orleans Pelicans,55722
+2016,505,Phil Pressey,Phoenix Suns,55722
+2016,506,Elliot Williams,Memphis Grizzlies,55722
+2016,507,Cory Jefferson,Phoenix Suns,49709
+2016,508,Thanasis Antetokounmpo,New York Knicks,30888

@@ -1,0 +1,521 @@
+Year,Rank,Player,Team,Salary
+2020,1,Stephen Curry,Golden State Warriors,40231758
+2020,2,Russell Westbrook,Houston Rockets,38506482
+2020,3,Chris Paul,Oklahoma City Thunder,38506482
+2020,4,Kevin Durant,Houston Rockets,38199000
+2020,5,James Harden,Houston Rockets,38199000
+2020,6,John Wall,Houston Rockets,38199000
+2020,7,LeBron James,Los Angeles Lakers,37436858
+2020,8,Kyle Lowry,Toronto Raptors,34996296
+2020,9,Blake Griffin,Detroit Pistons,34449964
+2020,10,Tobias Harris,Philadelphia 76ers,32742000
+2020,11,Jimmy Butler III,Miami Heat,32742000
+2020,12,Kawhi Leonard,LA Clippers,32742000
+2020,13,Klay Thompson,Dallas Mavericks,32742000
+2020,14,Kemba Walker,Boston Celtics,32742000
+2020,15,Gordon Hayward,Boston Celtics,32700690
+2020,16,Mike Conley,Utah Jazz,32511624
+2020,17,Kyrie Irving,Brooklyn Nets,31742000
+2020,18,Khris Middleton,Milwaukee Bucks,30603448
+2020,19,Paul George,LA Clippers,30560700
+2020,20,Paul Millsap,Denver Nuggets,30350000
+2020,21,Damian Lillard,Portland Trail Blazers,29802321
+2020,22,Kevin Love,Cleveland Cavaliers,28942830
+2020,23,Nikola Vucevic,Orlando Magic,28000000
+2020,24,Al Horford,Philadelphia 76ers,28000000
+2020,25,DeMar DeRozan,San Antonio Spurs,27739975
+2020,26,CJ McCollum,Portland Trail Blazers,27556959
+2020,27,Joel Embiid,Philadelphia 76ers,27504630
+2020,28,Andrew Wiggins,Golden State Warriors,27504630
+2020,29,Nikola Jokic,Denver Nuggets,27504630
+2020,30,Devin Booker,Phoenix Suns,27285000
+2020,31,Karl-Anthony Towns,Minnesota Timberwolves,27285000
+2020,32,D'Angelo Russell,Minnesota Timberwolves,27285000
+2020,33,Kristaps Porzingis,Dallas Mavericks,27285000
+2020,34,Otto Porter Jr.,Chicago Bulls,27250575
+2020,35,Bradley Beal,Washington Wizards,27093019
+2020,36,Andre Drummond,Cleveland Cavaliers,27093019
+2020,37,Anthony Davis,Los Angeles Lakers,27093018
+2020,38,Hassan Whiteside,Portland Trail Blazers,27093017
+2020,39,Jrue Holiday,New Orleans Pelicans,26231111
+2020,40,LaMarcus Aldridge,San Antonio Spurs,26000000
+2020,41,Giannis Antetokounmpo,Milwaukee Bucks,25842697
+2020,42,Steven Adams,Oklahoma City Thunder,25842697
+2020,43,Marc Gasol,Toronto Raptors,25595700
+2020,44,Nicolas Batum,Charlotte Hornets,25565217
+2020,45,Chandler Parsons,Atlanta Hawks,25102511
+2020,46,Harrison Barnes,Sacramento Kings,24147727
+2020,47,Serge Ibaka,Toronto Raptors,23271604
+2020,48,Rudy Gobert,Utah Jazz,23241573
+2020,49,Danilo Gallinari,Oklahoma City Thunder,22615559
+2020,50,Victor Oladipo,Indiana Pacers,21000000
+2020,51,Tim Hardaway Jr.,Dallas Mavericks,20025127
+2020,52,Malcolm Brogdon,Indiana Pacers,20000000
+2020,53,Terry Rozier,Charlotte Hornets,19894737
+2020,54,Aaron Gordon,Orlando Magic,19863636
+2020,55,Zach LaVine,Chicago Bulls,19500000
+2020,56,Kent Bazemore,Sacramento Kings,19269662
+2020,57,Goran Dragic,Miami Heat,19217900
+2020,58,Jeff Teague,Atlanta Hawks,19000000
+2020,59,Evan Turner,Atlanta Hawks,18606556
+2020,60,Draymond Green,Golden State Warriors,18539130
+2020,61,Tristan Thompson,Cleveland Cavaliers,18539130
+2020,62,Allen Crabbe,Minnesota Timberwolves,18500000
+2020,63,Julius Randle,New York Knicks,18000000
+2020,64,Myles Turner,Indiana Pacers,18000000
+2020,65,Gary Harris,Denver Nuggets,17839286
+2020,66,Derrick Favors,New Orleans Pelicans,17650000
+2020,67,Andre Iguodala,Miami Heat,17185185
+2020,68,Evan Fournier,Orlando Magic,17150000
+2020,69,Bismack Biyombo,Charlotte Hornets,17000000
+2020,70,Bojan Bogdanovic,Utah Jazz,17000000
+2020,71,Timofey Mozgov,Orlando Magic,16720000
+2020,72,Gorgui Dieng,Memphis Grizzlies,16229213
+2020,73,Ricky Rubio,Phoenix Suns,16200000
+2020,74,Jonas Valanciunas,Memphis Grizzlies,16000000
+2020,75,Brandon Knight,Detroit Pistons,15643750
+2020,76,Eric Bledsoe,Milwaukee Bucks,15625000
+2020,77,Kelly Oubre Jr.,Phoenix Suns,15625000
+2020,78,Dennis Schroder,Oklahoma City Thunder,15500000
+2020,79,Ian Mahinmi,Washington Wizards,15450051
+2020,80,James Johnson,Minnesota Timberwolves,15349400
+2020,81,Bobby Portis,New York Knicks,15000000
+2020,82,Marcus Morris Sr.,LA Clippers,15000000
+2020,83,Clint Capela,Houston Rockets,14896552
+2020,84,Luke Babbitt,Miami Heat,14651700
+2020,85,Danny Green,Los Angeles Lakers,14634146
+2020,86,Rudy Gay,San Antonio Spurs,14500000
+2020,87,Cody Zeller,Charlotte Hornets,14471910
+2020,88,Eric Gordon,Houston Rockets,14057730
+2020,89,Mason Plumlee,Denver Nuggets,14041096
+2020,90,Marcin Gortat,LA Clippers,13565218
+2020,91,JJ Redick,New Orleans Pelicans,13486300
+2020,92,Jordan Clarkson,Utah Jazz,13437500
+2020,93,Dewayne Dedmon,Atlanta Hawks,13333333
+2020,94,Jusuf Nurkic,Portland Trail Blazers,13125000
+2020,95,Justise Winslow,Miami Heat,13000000
+2020,96,Thaddeus Young,Chicago Bulls,12900000
+2020,97,Will Barton,Denver Nuggets,12776786
+2020,98,Courtney Lee,Dallas Mavericks,12759670
+2020,99,Solomon Hill,Miami Heat,12758781
+2020,100,Larry Nance Jr.,Cleveland Cavaliers,12727273
+2020,101,Kelly Olynyk,Miami Heat,12667885
+2020,102,Marcus Smart,Boston Celtics,12553571
+2020,103,Miles Plumlee,Memphis Grizzlies,12500000
+2020,104,Terrence Ross,Orlando Magic,12500000
+2020,105,Nikola Mirotic,Milwaukee Bucks,12500000
+2020,106,Patty Mills,San Antonio Spurs,12428571
+2020,107,Tyreke Evans,Indiana Pacers,12400000
+2020,108,Patrick Beverley,LA Clippers,12345680
+2020,109,Trevor Ariza,Portland Trail Blazers,12195122
+2020,110,Brook Lopez,Milwaukee Bucks,12093023
+2020,111,Cory Joseph,Sacramento Kings,12000000
+2020,112,Joe Ingles,Utah Jazz,11954546
+2020,113,Zach Randolph,Dallas Mavericks,11692308
+2020,114,Tony Snell,Detroit Pistons,11392857
+2020,115,Robert Covington,Houston Rockets,11301219
+2020,116,Meyers Leonard,Miami Heat,11286516
+2020,117,Omer Asik,Chicago Bulls,11286516
+2020,118,Maurice Harkless,New York Knicks,11011234
+2020,119,T.J. Warren,Indiana Pacers,10810000
+2020,120,Andre Roberson,Oklahoma City Thunder,10740740
+2020,121,Spencer Dinwiddie,Brooklyn Nets,10605600
+2020,122,Jeremy Lamb,Indiana Pacers,10500000
+2020,123,Dwight Powell,Dallas Mavericks,10259375
+2020,124,Josh Richardson,Philadelphia 76ers,10116576
+2020,125,Norman Powell,Toronto Raptors,10116576
+2020,126,Tomas Satoransky,Chicago Bulls,10000000
+2020,127,Darren Collison,Los Angeles Lakers,10000000
+2020,128,DeAndre Jordan,Brooklyn Nets,9881598
+2020,129,Zion Williamson,New Orleans Pelicans,9757440
+2020,130,Markelle Fultz,Orlando Magic,9745200
+2020,131,John Henson,Detroit Pistons,9732396
+2020,132,Matthew Dellavedova,Cleveland Cavaliers,9607500
+2020,133,Dante Exum,Cleveland Cavaliers,9600000
+2020,134,Deandre Ayton,Phoenix Suns,9562920
+2020,135,Delon Wright,Dallas Mavericks,9473684
+2020,136,Jerami Grant,Denver Nuggets,9346153
+2020,137,Fred VanVleet,Toronto Raptors,9346153
+2020,138,Tyus Jones,Memphis Grizzlies,9258000
+2020,139,Al-Farouq Aminu,Orlando Magic,9258000
+2020,140,George Hill,Milwaukee Bucks,9133907
+2020,141,Kyle Anderson,Memphis Grizzlies,9073050
+2020,142,Taj Gibson,New York Knicks,9000000
+2020,143,Ja Morant,Memphis Grizzlies,8730240
+2020,144,Lonzo Ball,New Orleans Pelicans,8719320
+2020,145,E'Twaun Moore,New Orleans Pelicans,8664928
+2020,146,Marvin Bagley III,Sacramento Kings,8556120
+2020,147,Bogdan Bogdanovic,Sacramento Kings,8529386
+2020,148,P.J. Tucker,Houston Rockets,8349039
+2020,149,CJ Miles,Washington Wizards,8333333
+2020,150,Cristiano Felicio,Chicago Bulls,8156500
+2020,151,Ben Simmons,Philadelphia 76ers,8113930
+2020,152,Kentavious Caldwell-Pope,Los Angeles Lakers,8089282
+2020,153,Thomas Bryant,Washington Wizards,8000000
+2020,154,Wayne Ellington,New York Knicks,8000000
+2020,155,Maxi Kleber,Dallas Mavericks,8000000
+2020,156,Lou Williams,LA Clippers,8000000
+2020,157,RJ Barrett,New York Knicks,7839960
+2020,158,Jayson Tatum,Boston Celtics,7830000
+2020,159,Jae Crowder,Miami Heat,7815533
+2020,160,Luka Doncic,Dallas Mavericks,7683360
+2020,161,Joe Harris,Brooklyn Nets,7666667
+2020,162,Darrell Arthur,Phoenix Suns,7464912
+2020,163,Seth Curry,Dallas Mavericks,7461380
+2020,164,Langston Galloway,Detroit Pistons,7333333
+2020,165,Doug McDermott,Indiana Pacers,7333333
+2020,166,Derrick Rose,Detroit Pistons,7317073
+2020,167,Brandon Ingram,New Orleans Pelicans,7265485
+2020,168,D.J. Augustin,Orlando Magic,7250000
+2020,169,Lance Thomas,Brooklyn Nets,7119650
+2020,170,De'Andre Hunter,Atlanta Hawks,7068360
+2020,171,Josh Jackson,Memphis Grizzlies,7059480
+2020,172,Davis Bertans,Washington Wizards,7000000
+2020,173,Darius Miller,Oklahoma City Thunder,7000000
+2020,174,Ersan Ilyasova,Milwaukee Bucks,7000000
+2020,175,Jaren Jackson Jr.,Memphis Grizzlies,6927480
+2020,176,Nemanja Bjelica,Sacramento Kings,6825000
+2020,177,Jaylen Brown,Boston Celtics,6534829
+2020,178,Jabari Parker,Sacramento Kings,6500000
+2020,179,Ivica Zubac,LA Clippers,6481482
+2020,180,Darius Garland,Cleveland Cavaliers,6400920
+2020,181,De'Aaron Fox,Sacramento Kings,6392760
+2020,182,Milos Teodosic,LA Clippers,6300000
+2020,183,Trae Young,Atlanta Hawks,6273000
+2020,184,Wesley Johnson,Washington Wizards,6134520
+2020,185,Ish Smith,Washington Wizards,6000000
+2020,186,Montrezl Harrell,LA Clippers,6000000
+2020,187,Marco Belinelli,San Antonio Spurs,5846154
+2020,188,Jarrett Culver,Minnesota Timberwolves,5813640
+2020,189,Jonathan Isaac,Orlando Magic,5806440
+2020,190,Rodney Hood,Portland Trail Blazers,5718000
+2020,191,Jonathon Simmons,Washington Wizards,5700000
+2020,192,Mo Bamba,Orlando Magic,5697600
+2020,193,Trey Lyles,San Antonio Spurs,5500000
+2020,194,Alex Abrines,Oklahoma City Thunder,5455236
+2020,195,Aron Baynes,Phoenix Suns,5453280
+2020,196,Jason Smith,New Orleans Pelicans,5450000
+2020,197,Kris Dunn,Chicago Bulls,5348007
+2020,198,Coby White,Chicago Bulls,5307120
+2020,199,Lauri Markkanen,Chicago Bulls,5300400
+2020,200,Alexis Ajinca,LA Clippers,5285394
+2020,201,Wendell Carter Jr.,Chicago Bulls,5201400
+2020,202,Daniel Theis,Boston Celtics,5000000
+2020,203,Dirk Nowitzki,Dallas Mavericks,5000000
+2020,204,Kyle Singler,Oklahoma City Thunder,4996000
+2020,205,Jaxson Hayes,New Orleans Pelicans,4862040
+2020,206,Buddy Hield,Sacramento Kings,4861208
+2020,207,Frank Ntilikina,New York Knicks,4855800
+2020,208,Rodney McGruder,LA Clippers,4807693
+2020,209,Garrett Temple,Brooklyn Nets,4767000
+2020,210,Richaun Holmes,Sacramento Kings,4767000
+2020,211,Robin Lopez,Milwaukee Bucks,4767000
+2020,212,Mike Scott,Philadelphia 76ers,4767000
+2020,213,Avery Bradley,Los Angeles Lakers,4767000
+2020,214,Frank Kaminsky,Phoenix Suns,4767000
+2020,215,JaMychal Green,LA Clippers,4767000
+2020,216,Justin Holiday,Indiana Pacers,4767000
+2020,217,Ed Davis,Utah Jazz,4767000
+2020,218,Enes Freedom,Boston Celtics,4767000
+2020,219,Collin Sexton,Cleveland Cavaliers,4764960
+2020,220,Rui Hachimura,Washington Wizards,4469160
+2020,221,Kevon Looney,Golden State Warriors,4464226
+2020,222,Dennis Smith Jr.,New York Knicks,4463640
+2020,223,Jamal Murray,Denver Nuggets,4444746
+2020,224,Kevin Knox II,New York Knicks,4380120
+2020,225,Luc Mbah a Moute,Houston Rockets,4320500
+2020,226,Cam Reddish,Atlanta Hawks,4245720
+2020,227,Zach Collins,Portland Trail Blazers,4240200
+2020,228,Mikal Bridges,Phoenix Suns,4161000
+2020,229,Alex Len,Sacramento Kings,4160000
+2020,230,Nicolo Melli,New Orleans Pelicans,4102564
+2020,231,Cameron Johnson,Phoenix Suns,4033440
+2020,232,Malik Monk,Charlotte Hornets,4028400
+2020,233,Patrick McCaw,Toronto Raptors,4000000
+2020,234,JaVale McGee,Los Angeles Lakers,4000000
+2020,235,Dorian Finney-Smith,Dallas Mavericks,4000000
+2020,236,Reggie Bullock Jr.,New York Knicks,4000000
+2020,237,Shai Gilgeous-Alexander,Oklahoma City Thunder,3952920
+2020,238,P.J. Washington,Charlotte Hornets,3831840
+2020,239,Luke Kennard,Detroit Pistons,3827160
+2020,240,Miles Bridges,Charlotte Hornets,3755400
+2020,241,Jakob Poeltl,San Antonio Spurs,3754886
+2020,242,Tyler Herro,Miami Heat,3640200
+2020,243,Donovan Mitchell,Utah Jazz,3635760
+2020,244,Stanley Johnson,Toronto Raptors,3623000
+2020,245,Jake Layman,Minnesota Timberwolves,3581986
+2020,246,Thon Maker,Detroit Pistons,3569643
+2020,247,Jerome Robinson,Washington Wizards,3567720
+2020,248,Allonzo Trier,New York Knicks,3551000
+2020,249,Danuel House Jr.,Houston Rockets,3540000
+2020,250,Domantas Sabonis,Indiana Pacers,3529555
+2020,251,Michael Beasley,Brooklyn Nets,3500000
+2020,252,T.J. McConnell,Indiana Pacers,3500000
+2020,253,Boban Marjanovic,Dallas Mavericks,3500000
+2020,254,DeMarcus Cousins,Denver Nuggets,3500000
+2020,255,Taurean Prince,Brooklyn Nets,3481986
+2020,256,Dario Saric,Phoenix Suns,3481986
+2020,257,Romeo Langford,Boston Celtics,3458400
+2020,258,Bam Adebayo,Miami Heat,3454080
+2020,259,Michael Porter Jr.,Denver Nuggets,3389400
+2020,260,Denzel Valentine,Chicago Bulls,3377569
+2020,261,Juancho Hernangomez,Minnesota Timberwolves,3321030
+2020,262,Sekou Doumbouya,Detroit Pistons,3285120
+2020,263,Justin Jackson,Dallas Mavericks,3280920
+2020,264,Troy Brown Jr.,Washington Wizards,3219480
+2020,265,Yogi Ferrell,Sacramento Kings,3150000
+2020,266,Zhaire Smith,Philadelphia 76ers,3058800
+2020,267,Khem Birch,Orlando Magic,3000000
+2020,268,Quinn Cook,Los Angeles Lakers,3000000
+2020,269,Ryan Arcidiacono,Chicago Bulls,3000000
+2020,270,Nickeil Alexander-Walker,New Orleans Pelicans,2964840
+2020,271,D.J. Wilson,Milwaukee Bucks,2961120
+2020,272,Cedi Osman,Cleveland Cavaliers,2907143
+2020,273,Donte DiVincenzo,Milwaukee Bucks,2905800
+2020,274,Bryn Forbes,San Antonio Spurs,2875000
+2020,275,Goga Bitadze,Indiana Pacers,2816760
+2020,276,T.J. Leaf,Indiana Pacers,2813280
+2020,277,Alex Caruso,Los Angeles Lakers,2750000
+2020,278,Malik Beasley,Minnesota Timberwolves,2731714
+2020,279,Luka Samanic,San Antonio Spurs,2689920
+2020,280,Lonnie Walker IV,San Antonio Spurs,2689920
+2020,281,John Collins,Atlanta Hawks,2686560
+2020,282,Kevin Huerter,Atlanta Hawks,2636280
+2020,283,Caris LeVert,Brooklyn Nets,2625718
+2020,284,Marko Guduric,Memphis Grizzlies,2625000
+2020,285,DeAndre' Bembry,Atlanta Hawks,2603982
+2020,286,Matisse Thybulle,Philadelphia 76ers,2582160
+2020,287,Harry Giles III,Sacramento Kings,2578800
+2020,288,Rajon Rondo,Los Angeles Lakers,2564753
+2020,289,Wesley Matthews,Milwaukee Bucks,2564753
+2020,290,Nene Hilario,Atlanta Hawks,2564753
+2020,291,Josh Okogie,Minnesota Timberwolves,2530680
+2020,292,Manu Ginobili,San Antonio Spurs,2500000
+2020,293,Rondae Hollis Jefferson,Toronto Raptors,2500000
+2020,294,Brandon Clarke,Memphis Grizzlies,2478840
+2020,295,Terrance Ferguson,Oklahoma City Thunder,2475840
+2020,296,Emeka Okafor,Philadelphia 76ers,2445085
+2020,297,Kendrick Perkins,Cleveland Cavaliers,2445085
+2020,298,Grayson Allen,Memphis Grizzlies,2429400
+2020,299,Grant Williams,Boston Celtics,2379840
+2020,300,Jarrett Allen,Brooklyn Nets,2376840
+2020,301,Pascal Siakam,Toronto Raptors,2351839
+2020,302,Skal Labissiere,Portland Trail Blazers,2338847
+2020,303,Chandler Hutchison,Chicago Bulls,2332320
+2020,304,Aaron Holiday,Indiana Pacers,2329200
+2020,305,Dejounte Murray,San Antonio Spurs,2321735
+2020,306,Damian Jones,Atlanta Hawks,2305057
+2020,307,Darius Bazley,Oklahoma City Thunder,2284800
+2020,308,OG Anunoby,Toronto Raptors,2281800
+2020,309,Ante Zizic,Cleveland Cavaliers,2281800
+2020,310,Luke Kornet,Chicago Bulls,2250000
+2020,311,Brandon Jennings,Milwaukee Bucks,2222803
+2020,312,Ty Jerome,Phoenix Suns,2193480
+2020,313,Willie Cauley-Stein,Dallas Mavericks,2177483
+2020,314,Anfernee Simons,Portland Trail Blazers,2149560
+2020,315,Austin Rivers,Houston Rockets,2147317
+2020,316,Nassir Little,Portland Trail Blazers,2105520
+2020,317,Moritz Wagner,Washington Wizards,2063520
+2020,318,Sean Kilpatrick,Chicago Bulls,2054856
+2020,319,Dylan Windler,Atlanta Hawks,2035800
+2020,320,Caleb Swanigan,Portland Trail Blazers,2033160
+2020,321,Mike Muscala,Oklahoma City Thunder,2028594
+2020,322,Ben McLemore,Houston Rockets,2028594
+2020,323,Edmond Sumner,Indiana Pacers,2000000
+2020,324,Torrey Craig,Denver Nuggets,2000000
+2020,325,Noah Vonleh,Denver Nuggets,2000000
+2020,326,Landry Shamet,LA Clippers,1995120
+2020,327,Mfiondu Kabengele,LA Clippers,1977000
+2020,328,Kyle Kuzma,Los Angeles Lakers,1974600
+2020,329,Jordan Poole,Golden State Warriors,1964760
+2020,330,Tony Bradley,Utah Jazz,1962360
+2020,331,Keldon Johnson,San Antonio Spurs,1950600
+2020,332,Derrick White,San Antonio Spurs,1948080
+2020,333,Robert Williams III,Boston Celtics,1937520
+2020,334,Jacob Evans,Minnesota Timberwolves,1925880
+2020,335,Omari Rasulala Spellman,Golden State Warriors,1897800
+2020,336,James Ennis III,Orlando Magic,1882867
+2020,337,Shabazz Napier,Washington Wizards,1845301
+2020,338,DeAndre Liggins,Miami Heat,1795015
+2020,339,Markieff Morris,Los Angeles Lakers,1750000
+2020,340,Cameron Payne,Phoenix Suns,1737145
+2020,341,Pat Connaughton,Milwaukee Bucks,1723050
+2020,342,Jahlil Okafor,New Orleans Pelicans,1702486
+2020,343,Rodions Kurucs,Brooklyn Nets,1699236
+2020,344,Jonah Bolden,Phoenix Suns,1698450
+2020,345,Cheick Diallo,Phoenix Suns,1678854
+2020,346,Dragan Bender,Golden State Warriors,1678854
+2020,347,Willy Hernangomez,Charlotte Hornets,1676735
+2020,348,Julyan Stone,Chicago Bulls,1656092
+2020,349,MarShon Brooks,Chicago Bulls,1656092
+2020,350,Josh Hart,New Orleans Pelicans,1655160
+2020,351,Treveon Graham,Atlanta Hawks,1645357
+2020,352,Christian Wood,Detroit Pistons,1645357
+2020,353,Jordan McRae,Detroit Pistons,1645357
+2020,354,Derrick Jones Jr.,Miami Heat,1645357
+2020,355,Georges Niang,Utah Jazz,1645357
+2020,356,Shaquille Harrison,Chicago Bulls,1620564
+2020,357,Isaiah Taylor,Toronto Raptors,1620564
+2020,358,Trey Burke,Dallas Mavericks,1620564
+2020,359,Tyler Lydon,Sacramento Kings,1620564
+2020,360,Emmanuel Mudiay,Utah Jazz,1620564
+2020,361,Nerlens Noel,Oklahoma City Thunder,1620564
+2020,362,Patrick Patterson,LA Clippers,1620564
+2020,363,Isaiah Thomas,Washington Wizards,1620564
+2020,364,Kyle O'Quinn,Philadelphia 76ers,1620564
+2020,365,Michael Carter-Williams,Orlando Magic,1620564
+2020,366,Alec Burks,Philadelphia 76ers,1620564
+2020,367,Wilson Chandler,Brooklyn Nets,1620564
+2020,368,Glenn Robinson III,Philadelphia 76ers,1620564
+2020,369,Kyle Korver,Milwaukee Bucks,1620564
+2020,370,Udonis Haslem,Miami Heat,1620564
+2020,371,Jared Dudley,Los Angeles Lakers,1620564
+2020,372,Dwight Howard,Los Angeles Lakers,1620564
+2020,373,Furkan Korkmaz,Philadelphia 76ers,1620564
+2020,374,JaKarr Sampson,Indiana Pacers,1620564
+2020,375,Justin Patton,Oklahoma City Thunder,1620564
+2020,376,Ryan Anderson,Houston Rockets,1620564
+2020,377,Thabo Sefolosha,Houston Rockets,1620564
+2020,378,Gerald Green,Houston Rockets,1620564
+2020,379,Tyson Chandler,Houston Rockets,1620564
+2020,380,J.J. Barea,Dallas Mavericks,1620564
+2020,381,Jarell Martin,Cleveland Cavaliers,1620564
+2020,382,Raul Neto,Philadelphia 76ers,1620564
+2020,383,Tim Frazier,Detroit Pistons,1620564
+2020,384,Jordan Bell,Memphis Grizzlies,1620564
+2020,385,Joe Johnson,Boston Celtics,1620564
+2020,386,Vince Carter,Atlanta Hawks,1620564
+2020,387,Frank Jackson,New Orleans Pelicans,1618520
+2020,388,Abdel Nader,Oklahoma City Thunder,1618520
+2020,389,Royce O'Neale,Utah Jazz,1618520
+2020,390,Damyean Dotson,New York Knicks,1618520
+2020,391,Sterling Brown,Milwaukee Bucks,1618520
+2020,392,Semi Ojeleye,Boston Celtics,1618520
+2020,393,Dillon Brooks,Memphis Grizzlies,1618520
+2020,394,Wes Iwundu,Orlando Magic,1618420
+2020,395,Dwight Buycks,Detroit Pistons,1600520
+2020,396,Mitchell Robinson,New York Knicks,1599712
+2020,397,Chris Boucher,Toronto Raptors,1588231
+2020,398,Malcolm Miller,Toronto Raptors,1588231
+2020,399,Monte Morris,Denver Nuggets,1588231
+2020,400,Antonio Blakeney,Chicago Bulls,1588231
+2020,401,Tyrone Wallace,Atlanta Hawks,1588231
+2020,402,Malachi Richardson,Philadelphia 76ers,1569360
+2020,403,Georgios Papagiannis,Portland Trail Blazers,1544951
+2020,404,Chinanu Onuaku,Portland Trail Blazers,1544951
+2020,405,Wade Baldwin IV,Indiana Pacers,1544951
+2020,406,Isaiah Whitehead,Detroit Pistons,1544951
+2020,407,Paul Zipser,Chicago Bulls,1544951
+2020,408,Amile Jefferson,Orlando Magic,1529007
+2020,409,Omri Casspi,Memphis Grizzlies,1512601
+2020,410,Isaiah Canaan,Milwaukee Bucks,1512601
+2020,411,Dwyane Wade,Miami Heat,1512601
+2020,412,Nigel Williams-Goss,Utah Jazz,1500000
+2020,413,Isaiah Roby,Oklahoma City Thunder,1500000
+2020,414,Alfonzo McKinnie,Cleveland Cavaliers,1500000
+2020,415,Shake Milton,Philadelphia 76ers,1455697
+2020,416,Wenyen Gabriel,Portland Trail Blazers,1445697
+2020,417,Brad Wanamaker,Boston Celtics,1445697
+2020,418,Thanasis Antetokounmpo,Milwaukee Bucks,1445697
+2020,419,Derrick Walton Jr.,Detroit Pistons,1445697
+2020,420,Theo Pinson,Brooklyn Nets,1445697
+2020,421,Iman Shumpert,Brooklyn Nets,1419138
+2020,422,Gary Trent Jr.,Portland Trail Blazers,1416852
+2020,423,Bruce Brown,Detroit Pistons,1416852
+2020,424,Hamidou Diallo,Oklahoma City Thunder,1416852
+2020,425,Kendrick Nunn,Miami Heat,1416852
+2020,426,Melvin Frazier Jr.,Orlando Magic,1416852
+2020,427,Kenrich Williams,New Orleans Pelicans,1416852
+2020,428,Alize Johnson,Indiana Pacers,1416852
+2020,429,Devonte' Graham,Charlotte Hornets,1416852
+2020,430,Deonte Burton,Oklahoma City Thunder,1416852
+2020,431,De'Anthony Melton,Memphis Grizzlies,1416852
+2020,432,Ryan Broekhoff,Dallas Mavericks,1416852
+2020,433,Isaiah Hartenstein,Houston Rockets,1416852
+2020,434,Jalen Brunson,Dallas Mavericks,1416852
+2020,435,Elie Okobo,Phoenix Suns,1416852
+2020,436,Keita Bates-Diop,Denver Nuggets,1416852
+2020,437,Duncan Robinson,Miami Heat,1416852
+2020,438,Jarred Vanderbilt,Minnesota Timberwolves,1416852
+2020,439,Jemerrio Jones,Los Angeles Lakers,1416852
+2020,440,Khyri Thomas,Detroit Pistons,1416852
+2020,441,Chimezie Metu,San Antonio Spurs,1416852
+2020,442,Jevon Carter,Phoenix Suns,1416852
+2020,443,Dairis Bertans,New Orleans Pelicans,1416852
+2020,444,Yante Maten,Boston Celtics,1416852
+2020,445,Svi Mykhailiuk,Detroit Pistons,1416852
+2020,446,Isaac Bonga,Washington Wizards,1416842
+2020,447,Tarik Phillip,Washington Wizards,1416842
+2020,448,Jaylen Nowell,Minnesota Timberwolves,1400000
+2020,449,Bruno Fernando,Atlanta Hawks,1400000
+2020,450,Dakari Johnson,Memphis Grizzlies,1378242
+2020,451,Kyle Collinsworth,Utah Jazz,1378242
+2020,452,Jaylen Morris,San Antonio Spurs,1378242
+2020,453,Brandon Paul,San Antonio Spurs,1378242
+2020,454,Rodney Purvis,Miami Heat,1378242
+2020,455,David Stockton,Los Angeles Lakers,1378242
+2020,456,Zhou Qi,Houston Rockets,1378242
+2020,457,Aaron Jackson,Houston Rockets,1378242
+2020,458,Ike Anigbogu,New Orleans Pelicans,1378242
+2020,459,Carmelo Anthony,Portland Trail Blazers,1364204
+2020,460,Jabari Bird,Atlanta Hawks,1349464
+2020,461,Ben Moore,San Antonio Spurs,1349383
+2020,462,James Nunnally,New Orleans Pelicans,1349383
+2020,463,Kevin Porter Jr.,Cleveland Cavaliers,1290960
+2020,464,Carsen Edwards,Boston Celtics,1228026
+2020,465,Cody Martin,Charlotte Hornets,1173310
+2020,466,Gary Payton II,Washington Wizards,1052909
+2020,467,Nick Young,Denver Nuggets,1042584
+2020,468,Admiral Schofield,Washington Wizards,1000000
+2020,469,Terance Mann,LA Clippers,1000000
+2020,470,Ron Baker,Washington Wizards,948580
+2020,471,David Nwaba,Brooklyn Nets,903111
+2020,472,Jalen McDaniels,Charlotte Hornets,898310
+2020,473,Dewan Hernandez,Toronto Raptors,898310
+2020,474,Talen Horton-Tucker,Los Angeles Lakers,898310
+2020,475,Stanton Kidd,Utah Jazz,898310
+2020,476,KZ Okpala,Miami Heat,898310
+2020,477,Terence Davis,Toronto Raptors,898310
+2020,478,Ignas Brazdeikis,New York Knicks,898310
+2020,479,Miye Oni,Utah Jazz,898310
+2020,480,Nic Claxton,Brooklyn Nets,898310
+2020,481,Naz Reid,Minnesota Timberwolves,898310
+2020,482,Eric Paschall,Golden State Warriors,898310
+2020,483,Jalen Lecque,Phoenix Suns,898310
+2020,484,Caleb Martin,Charlotte Hornets,898310
+2020,485,Alen Smailagic,Golden State Warriors,898310
+2020,486,Justin Robinson,Washington Wizards,898310
+2020,487,Vlatko Cancar,Denver Nuggets,898310
+2020,488,Daniel Gafford,Chicago Bulls,898310
+2020,489,Max Strus,Chicago Bulls,898310
+2020,490,Matt Thomas,Toronto Raptors,898310
+2020,491,Javonte Green,Boston Celtics,898310
+2020,492,Justin James,Sacramento Kings,898310
+2020,493,Damion Lee,Golden State Warriors,842327
+2020,494,Isaiah Briscoe,Orlando Magic,838464
+2020,495,Juwan Morgan,Utah Jazz,746054
+2020,496,Marquese Chriss,Golden State Warriors,654469
+2020,497,Timothe Luwawu-Cabarrot,Brooklyn Nets,654469
+2020,498,Marvin Williams,Milwaukee Bucks,604278
+2020,499,Michael Kidd-Gilchrist,Dallas Mavericks,595122
+2020,500,Rayjon Tucker,Utah Jazz,578573
+2020,501,Chris Clemons,Houston Rockets,563347
+2020,502,Gary Clark,Orlando Magic,555409
+2020,503,Brandon Goodwin,Atlanta Hawks,522738
+2020,504,DeMarre Carroll,Houston Rockets,512721
+2020,505,Reggie Jackson,LA Clippers,512721
+2020,506,Anzejs Pasecniks,Washington Wizards,482144
+2020,507,Chris Silva,Miami Heat,466918
+2020,508,Jeff Green,Houston Rockets,439475
+2020,509,Troy Daniels,Denver Nuggets,384541
+2020,510,Dion Waiters,Los Angeles Lakers,375385
+2020,511,Juan Toscano-Anderson,Golden State Warriors,350189
+2020,512,Norvel Pelle,Philadelphia 76ers,350189
+2020,513,Ky Bowman,Golden State Warriors,350189
+2020,514,JR Smith,Los Angeles Lakers,289803
+2020,515,Tyler Zeller,San Antonio Spurs,245686
+2020,516,Jimmer Fredette,Phoenix Suns,208509
+2020,517,Jontay Porter,Toronto Raptors,197933
+2020,518,Tyler Johnson,Brooklyn Nets,183115
+2020,519,Anthony Tolliver,Memphis Grizzlies,183115
+2020,520,Luguentz Dort,Oklahoma City Thunder,155647

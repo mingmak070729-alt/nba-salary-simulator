@@ -1,0 +1,614 @@
+Year,Rank,Player,Team,Salary
+2012,1,Kobe Bryant,Los Angeles Lakers,25244493
+2012,2,Kevin Garnett,Boston Celtics,21247044
+2012,3,Tim Duncan,San Antonio Spurs,21164619
+2012,4,Rashard Lewis,Washington Wizards,21136631
+2012,5,Dirk Nowitzki,Dallas Mavericks,19092873
+2012,6,Pau Gasol,Los Angeles Lakers,18714150
+2012,7,Carmelo Anthony,New York Knicks,18518574
+2012,8,Amar'e Stoudemire,New York Knicks,18217705
+2012,9,Elton Brand,Philadelphia 76ers,18160355
+2012,10,Dwight Howard,Orlando Magic,18091770
+2012,11,Joe Johnson,Atlanta Hawks,18038573
+2012,12,Andrei Kirilenko,Philadelphia 76ers,17823000
+2012,13,Chris Bosh,Miami Heat,17545000
+2012,14,LeBron James,Miami Heat,17545000
+2012,15,Chris Paul,LA Clippers,16359805
+2012,16,Deron Williams,New Jersey Nets,16359805
+2012,17,Dwyane Wade,Miami Heat,15691000
+2012,18,Kevin Durant,Oklahoma City Thunder,15506632
+2012,19,Paul Pierce,Boston Celtics,15333334
+2012,20,Zach Randolph,Memphis Grizzlies,15200000
+2012,21,Antawn Jamison,Cleveland Cavaliers,15076715
+2012,22,Brandon Roy,Minnesota Timberwolves,15032144
+2012,23,Rudy Gay,Memphis Grizzlies,15032144
+2012,24,Al Jefferson,Utah Jazz,15000000
+2012,25,Andrew Bynum,Los Angeles Lakers,14900000
+2012,26,Andre Iguodala,Philadelphia 76ers,14718250
+2012,27,Manu Ginobili,San Antonio Spurs,14107492
+2012,28,Chris Kaman,New Orleans Hornets,14030000
+2012,29,LaMarcus Aldridge,Portland Trail Blazers,14000000
+2012,30,Carlos Boozer,Chicago Bulls,13500000
+2012,31,Tyson Chandler,New York Knicks,13107837
+2012,32,Nene Hilario,Washington Wizards,13000000
+2012,33,Marc Gasol,Memphis Grizzlies,12922194
+2012,34,Emeka Okafor,New Orleans Hornets,12642500
+2012,35,Tony Parker,San Antonio Spurs,12500000
+2012,36,Al Horford,Atlanta Hawks,12498483
+2012,37,Josh Smith,Atlanta Hawks,12400000
+2012,38,Luol Deng,Chicago Bulls,12325000
+2012,39,Danny Granger,Indiana Pacers,12015904
+2012,40,Joakim Noah,Chicago Bulls,12000000
+2012,41,Andrew Bogut,Milwaukee Bucks,12000000
+2012,42,Steve Nash,Phoenix Suns,11689062
+2012,43,David Lee,Golden State Warriors,11610000
+2012,44,Ben Gordon,Detroit Pistons,11600000
+2012,45,Kevin Martin,Houston Rockets,11519840
+2012,46,Marcus Camby,Houston Rockets,11227250
+2012,47,Jason Terry,Dallas Mavericks,11158000
+2012,48,Hedo Turkoglu,Orlando Magic,11015850
+2012,49,Monta Ellis,Milwaukee Bucks,11000000
+2012,50,Mehmet Okur,New Jersey Nets,10890000
+2012,51,Jose Calderon,Toronto Raptors,10561982
+2012,52,Corey Maggette,Charlotte Bobcats,10262069
+2012,53,Jason Kidd,Dallas Mavericks,10121000
+2012,54,DeAndre Jordan,LA Clippers,10079404
+2012,55,Rajon Rondo,Boston Celtics,10045454
+2012,56,Andrea Bargnani,Toronto Raptors,10000000
+2012,57,Ray Allen,Boston Celtics,10000000
+2012,58,David West,Indiana Pacers,10000000
+2012,59,Gerald Wallace,New Jersey Nets,9500000
+2012,60,Cuttino Mobley,LA Clippers,9500000
+2012,61,Devin Harris,Utah Jazz,9319000
+2012,62,Richard Jefferson,Golden State Warriors,9282000
+2012,63,Andris Biedrins,Golden State Warriors,9000000
+2012,64,Lamar Odom,Dallas Mavericks,8900000
+2012,65,Paul Millsap,Utah Jazz,8603633
+2012,66,Jameer Nelson,Orlando Magic,8600000
+2012,67,Luis Scola,Houston Rockets,8591793
+2012,68,Carl Landry,New Orleans Hornets,8500000
+2012,69,Rodney Stuckey,Detroit Pistons,8500000
+2012,70,Mo Williams,LA Clippers,8500000
+2012,71,John Salmons,Sacramento Kings,8083000
+2012,72,Thaddeus Young,Philadelphia 76ers,8039130
+2012,73,Shawn Marion,Dallas Mavericks,8022449
+2012,74,Caron Butler,LA Clippers,8000000
+2012,75,Kris Humphries,New Jersey Nets,8000000
+2012,76,Kirk Hinrich,Atlanta Hawks,8000000
+2012,77,Mark Blount,Miami Heat,7967375
+2012,78,Andre Miller,Denver Nuggets,7807728
+2012,79,Arron Afflalo,Denver Nuggets,7750000
+2012,80,Anderson Varejao,Cleveland Cavaliers,7700000
+2012,81,Brendan Haywood,Dallas Mavericks,7624500
+2012,82,Leandro Barbosa,Indiana Pacers,7600000
+2012,83,James Posey,Indiana Pacers,7595600
+2012,84,Raymond Felton,Portland Trail Blazers,7560000
+2012,85,Charlie Villanueva,Detroit Pistons,7540000
+2012,86,Marcus Thornton,Sacramento Kings,7525000
+2012,87,Marvin Williams,Atlanta Hawks,7500000
+2012,88,Tyrus Thomas,Charlotte Bobcats,7305785
+2012,89,Marcin Gortat,Phoenix Suns,7258960
+2012,90,Kendrick Perkins,Oklahoma City Thunder,7123626
+2012,91,Marko Jaric,Brooklyn Nets,7100000
+2012,92,Samuel Dalembert,Houston Rockets,7000000
+2012,93,Derrick Rose,Chicago Bulls,6993708
+2012,94,Beno Udrih,Milwaukee Bucks,6925400
+2012,95,DeSagana Diop,Charlotte Bobcats,6925400
+2012,96,Trevor Ariza,New Orleans Hornets,6790640
+2012,97,Metta World Peace,Los Angeles Lakers,6790640
+2012,98,Kwame Brown,Golden State Warriors,6750000
+2012,99,JJ Redick,Orlando Magic,6750000
+2012,100,Morris Peterson,Oklahoma City Thunder,6665000
+2012,101,Andres Nocioni,Philadelphia 76ers,6650000
+2012,102,Mike Conley,Memphis Grizzlies,6611571
+2012,103,Jerome James,Chicago Bulls,6600000
+2012,104,Wesley Matthews,Portland Trail Blazers,6505320
+2012,105,Grant Hill,Phoenix Suns,6500000
+2012,106,Josh Childress,Phoenix Suns,6500000
+2012,107,Andray Blatche,Washington Wizards,6442083
+2012,108,Rasheed Wallace,New York Knicks,6322320
+2012,109,Glen Davis,Orlando Magic,6300000
+2012,110,Tayshaun Prince,Detroit Pistons,6292135
+2012,111,Michael Beasley,Minnesota Timberwolves,6262347
+2012,112,Drew Gooden,Milwaukee Bucks,6226200
+2012,113,Al Harrington,Denver Nuggets,6226200
+2012,114,Jermaine O'Neal,Boston Celtics,6226200
+2012,115,Francisco Garcia,Sacramento Kings,6100000
+2012,116,Amir Johnson,Toronto Raptors,6000000
+2012,117,Channing Frye,Phoenix Suns,6000000
+2012,118,Luke Walton,Cleveland Cavaliers,5971363
+2012,119,Kyle Lowry,Houston Rockets,5750000
+2012,120,Blake Griffin,LA Clippers,5731080
+2012,121,O.J. Mayo,Memphis Grizzlies,5632637
+2012,122,Nenad Krstic,Bilbao Basket Bilbao Basket,5543116
+2012,123,John Wall,Washington Wizards,5530080
+2012,124,Wilson Chandler,Denver Nuggets,5516664
+2012,125,Chuck Hayes,Sacramento Kings,5486250
+2012,126,Sasha Vujacic,New York Knicks,5475113
+2012,127,Mike Miller,Miami Heat,5400000
+2012,128,Jason Richardson,Orlando Magic,5395000
+2012,129,Evan Turner,Philadelphia 76ers,5293080
+2012,130,Martell Webster,Minnesota Timberwolves,5256000
+2012,131,Tyreke Evans,Sacramento Kings,5251825
+2012,132,Antonio McDyess,San Antonio Spurs,5220000
+2012,133,Speedy Claxton,Atlanta Hawks,5209454
+2012,134,Lou Williams,Philadelphia 76ers,5176000
+2012,135,Kyrie Irving,Cleveland Cavaliers,5144280
+2012,136,Hasheem Thabeet,Portland Trail Blazers,5127720
+2012,137,Russell Westbrook,Oklahoma City Thunder,5082416
+2012,138,Jason Maxiell,Detroit Pistons,5000000
+2012,139,Jamal Crawford,Portland Trail Blazers,5000000
+2012,140,Kyle Korver,Chicago Bulls,5000000
+2012,141,Luc Mbah a Moute,Milwaukee Bucks,5000000
+2012,142,Richard Hamilton,Chicago Bulls,5000000
+2012,143,Jarrett Jack,New Orleans Hornets,5000000
+2012,144,Marcus Banks,New Orleans Pelicans,4847586
+2012,145,Darius Songaila,Philadelphia 76ers,4818000
+2012,146,Darko Milicic,Minnesota Timberwolves,4776500
+2012,147,Derrick Favors,Utah Jazz,4753320
+2012,148,Brad Miller,Minnesota Timberwolves,4752000
+2012,149,Zaza Pachulia,Atlanta Hawks,4750000
+2012,150,Ronnie Brewer,Chicago Bulls,4710000
+2012,151,Kevin Love,Minnesota Timberwolves,4609701
+2012,152,James Harden,Oklahoma City Thunder,4604760
+2012,153,Derrick Williams,Minnesota Timberwolves,4602720
+2012,154,Linas Kleiza,Toronto Raptors,4600000
+2012,155,Nikola Pekovic,Minnesota Timberwolves,4503600
+2012,156,Jonas Jerebko,Detroit Pistons,4500000
+2012,157,Jeff Green,Houston Rockets,4455988
+2012,158,Daniel Gibson,Cleveland Cavaliers,4403834
+2012,159,Enes Freedom,Utah Jazz,4319280
+2012,160,J.J. Barea,Minnesota Timberwolves,4300000
+2012,161,Ramon Sessions,Los Angeles Lakers,4257973
+2012,162,Randy Foye,LA Clippers,4250000
+2012,163,Jared Dudley,Phoenix Suns,4250000
+2012,164,Brandon Bass,Boston Celtics,4250000
+2012,165,Chris Andersen,Denver Nuggets,4234000
+2012,166,Danilo Gallinari,Denver Nuggets,4190182
+2012,167,Bruce Bowen,San Antonio Spurs,4100000
+2012,168,Charlie Bell,Golden State Warriors,4099920
+2012,169,Greg Buckner,Memphis Grizzlies,4080915
+2012,170,Udonis Haslem,Miami Heat,4060000
+2012,171,Spencer Hawes,Philadelphia 76ers,4051024
+2012,172,Wesley Johnson,Minnesota Timberwolves,4006080
+2012,173,Jordan Farmar,New Jersey Nets,4000000
+2012,174,Anthony Morrow,New Jersey Nets,4000000
+2012,175,Hakim Warrick,Phoenix Suns,4000000
+2012,176,Mario Chalmers,Miami Heat,4000000
+2012,177,Steve Blake,Los Angeles Lakers,4000000
+2012,178,Ryan Gomes,LA Clippers,4000000
+2012,179,Tiago Splitter,San Antonio Spurs,3944000
+2012,180,Matt Carroll,Charlotte Bobcats,3900000
+2012,181,DeMarcus Cousins,Sacramento Kings,3880800
+2012,182,Eric Gordon,New Orleans Hornets,3831184
+2012,183,Dorell Wright,Golden State Warriors,3823000
+2012,184,Nazr Mohammed,Oklahoma City Thunder,3750000
+2012,185,Mike Dunleavy,Milwaukee Bucks,3750000
+2012,186,Tristan Thompson,Cleveland Cavaliers,3726600
+2012,187,CJ Miles,Utah Jazz,3700000
+2012,188,Nick Young,LA Clippers,3695857
+2012,189,Luke Ridnour,Minnesota Timberwolves,3680000
+2012,190,Matt Bonner,San Antonio Spurs,3630000
+2012,191,Shannon Brown,Phoenix Suns,3500000
+2012,192,Carlos Delfino,Milwaukee Bucks,3500000
+2012,193,Shaun Livingston,Milwaukee Bucks,3500000
+2012,194,Ricky Rubio,Minnesota Timberwolves,3480120
+2012,195,Raja Bell,Utah Jazz,3480000
+2012,196,Jonny Flynn,Portland Trail Blazers,3414720
+2012,197,C.J. Watson,Chicago Bulls,3400000
+2012,198,Marco Belinelli,New Orleans Hornets,3377604
+2012,199,DeMar DeRozan,Toronto Raptors,3344250
+2012,200,Timofey Mozgov,Denver Nuggets,3343896
+2012,201,Daequan Cook,Oklahoma City Thunder,3341558
+2012,202,Thabo Sefolosha,Oklahoma City Thunder,3300000
+2012,203,Ekpe Udoh,Milwaukee Bucks,3294960
+2012,204,Nick Collison,Oklahoma City Thunder,3272997
+2012,205,Chris Duhon,Orlando Magic,3250000
+2012,206,Will Bynum,Detroit Pistons,3250000
+2012,207,Johan Petro,New Jersey Nets,3250000
+2012,208,D.J. Augustin,Charlotte Bobcats,3236470
+2012,209,Tony Allen,Memphis Grizzlies,3150000
+2012,210,Shawne Williams,New Jersey Nets,3135000
+2012,211,Shane Battier,Miami Heat,3135000
+2012,212,Stephen Curry,Golden State Warriors,3117120
+2012,213,Brook Lopez,New Jersey Nets,3076983
+2012,214,Jan Vesely,Washington Wizards,3065040
+2012,215,Corey Brewer,Denver Nuggets,3059000
+2012,216,Jerryd Bayless,Toronto Raptors,3042280
+2012,217,Greg Monroe,Detroit Pistons,3007920
+2012,218,Jason Thompson,Sacramento Kings,3001284
+2012,219,Travis Outlaw,Sacramento Kings,3000000
+2012,220,Jeff Foster,Indiana Pacers,3000000
+2012,221,Josh McRoberts,Los Angeles Lakers,3000000
+2012,222,Chris Wilcox,Boston Celtics,3000000
+2012,223,Vince Carter,Dallas Mavericks,3000000
+2012,224,Anthony Randolph,Minnesota Timberwolves,2911231
+2012,225,Robin Lopez,Phoenix Suns,2862602
+2012,226,Julian Wright,Toronto Raptors,2858057
+2012,227,Jordan Hill,Los Angeles Lakers,2855760
+2012,228,Mark Madsen,Minnesota Timberwolves,2840000
+2012,229,James Johnson,Toronto Raptors,2812006
+2012,230,Bismack Biyombo,Charlotte Bobcats,2798040
+2012,231,Lou Amundson,Indiana Pacers,2763450
+2012,232,Al-Farouq Aminu,New Orleans Hornets,2755560
+2012,233,Eduardo Najera,Charlotte Bobcats,2750000
+2012,234,Marreese Speights,Memphis Grizzlies,2721255
+2012,235,Gordon Hayward,Utah Jazz,2709720
+2012,236,Dahntay Jones,Indiana Pacers,2700000
+2012,237,David Andersen,Fenerbahce Ulker Fenerbahce Ulker,2685185
+2012,238,Jrue Holiday,Philadelphia 76ers,2674852
+2012,239,Roy Hibbert,Indiana Pacers,2588590
+2012,240,Brandon Knight,Detroit Pistons,2563320
+2012,241,Ersan Ilyasova,Milwaukee Bucks,2541000
+2012,242,Kenyon Martin,LA Clippers,2500000
+2012,243,Aaron Gray,Toronto Raptors,2500000
+2012,244,Reggie Williams,Charlotte Bobcats,2500000
+2012,245,Jason Smith,New Orleans Hornets,2500000
+2012,246,DeShawn Stevenson,New Jersey Nets,2500000
+2012,247,Brandon Jennings,Milwaukee Bucks,2493720
+2012,248,JaVale McGee,Denver Nuggets,2462400
+2012,249,Quentin Richardson,Orlando Magic,2446200
+2012,250,Paul George,Indiana Pacers,2406240
+2012,251,Ricky Davis,LA Clippers,2400000
+2012,252,Kemba Walker,Charlotte Bobcats,2356320
+2012,253,JJ Hickson,Portland Trail Blazers,2354537
+2012,254,Jimmer Fredette,Sacramento Kings,2339040
+2012,255,JR Smith,New York Knicks,2338709
+2012,256,Derek Fisher,Oklahoma City Thunder,2329545
+2012,257,Cole Aldrich,Oklahoma City Thunder,2286000
+2012,258,Gerald Henderson,Charlotte Bobcats,2250600
+2012,259,Anthony Parker,Cleveland Cavaliers,2250000
+2012,260,Keyon Dooling,Boston Celtics,2246400
+2012,261,Ben Wallace,Detroit Pistons,2246400
+2012,262,Ryan Anderson,Orlando Magic,2244601
+2012,263,Courtney Lee,Houston Rockets,2225093
+2012,264,Ed Davis,Toronto Raptors,2207040
+2012,265,Kosta Koufos,Denver Nuggets,2203792
+2012,266,Xavier Henry,New Orleans Hornets,2171640
+2012,267,Nicolas Batum,Portland Trail Blazers,2155365
+2012,268,Josh Howard,Utah Jazz,2150000
+2012,269,Tyler Hansbrough,Indiana Pacers,2138040
+2012,270,Klay Thompson,Golden State Warriors,2126520
+2012,271,Alec Burks,Utah Jazz,2111160
+2012,272,Goran Dragic,Houston Rockets,2108000
+2012,273,Anthony Johnson,Orlando Magic,2062800
+2012,274,Brent Barry,Houston Rockets,2062800
+2012,275,Anthony Tolliver,Minnesota Timberwolves,2050000
+2012,276,Darrell Arthur,Phoenix Suns,2027119
+2012,277,Aaron Brooks,Minnesota Timberwolves,2016692
+2012,278,Markieff Morris,Phoenix Suns,2005560
+2012,279,D.J. White,Charlotte Bobcats,2001167
+2012,280,Chauncey Billups,LA Clippers,2000032
+2012,281,Dante Cunningham,Memphis Grizzlies,2000000
+2012,282,Earl Watson,Utah Jazz,2000000
+2012,283,Rasho Nesterovic,Toronto Raptors,1990000
+2012,284,Patrick Patterson,Houston Rockets,1959960
+2012,285,Austin Daye,Detroit Pistons,1929600
+2012,286,Matt Barnes,Los Angeles Lakers,1906200
+2012,287,Luke Babbitt,Portland Trail Blazers,1892280
+2012,288,Larry Sanders,Milwaukee Bucks,1861920
+2012,289,Omer Asik,Chicago Bulls,1857500
+2012,290,Dikembe Mutombo,Houston Rockets,1823280
+2012,291,Marcus Morris Sr.,Houston Rockets,1823280
+2012,292,Kawhi Leonard,San Antonio Spurs,1809840
+2012,293,Keith Bogans,New Jersey Nets,1728000
+2012,294,Nikola Vucevic,Philadelphia 76ers,1719480
+2012,295,Kevin Seraphin,Washington Wizards,1680360
+2012,296,Donte Greene,Sacramento Kings,1679914
+2012,297,Renaldo Balkman,New York Knicks,1675000
+2012,298,Ty Lawson,Denver Nuggets,1654440
+2012,299,Eric Bledsoe,LA Clippers,1596360
+2012,300,Jeff Teague,Atlanta Hawks,1579920
+2012,301,Sebastian Telfair,Phoenix Suns,1567500
+2012,302,Gustavo Ayon,New Orleans Hornets,1567500
+2012,303,Iman Shumpert,New York Knicks,1563120
+2012,304,George Hill,Indiana Pacers,1540493
+2012,305,Avery Bradley,Boston Celtics,1524480
+2012,306,Eric Maynor,Oklahoma City Thunder,1516680
+2012,307,Greg Oden,Miami Heat,1500000
+2012,308,Jeff Ayres,Indiana Pacers,1500000
+2012,309,Gary Forbes,Toronto Raptors,1500000
+2012,310,James Jones,Miami Heat,1500000
+2012,311,Chris Singleton,Washington Wizards,1485000
+2012,312,Alexis Ajinca,LA Clippers,1467840
+2012,313,Darren Collison,Indiana Pacers,1455960
+2012,314,Elliot Williams,Portland Trail Blazers,1442880
+2012,315,Tobias Harris,Milwaukee Bucks,1418160
+2012,316,Craig Brackins,Philadelphia 76ers,1404960
+2012,317,James Anderson,San Antonio Spurs,1402540
+2012,318,Zydrunas Ilgauskas,Miami Heat,1399507
+2012,319,Eddie House,Miami Heat,1399507
+2012,320,Nolan Smith,Portland Trail Blazers,1365720
+2012,321,Jamaal Tinsley,Utah Jazz,1352181
+2012,322,Kurt Thomas,Portland Trail Blazers,1352181
+2012,323,Shaquille O'Neal,Boston Celtics,1352181
+2012,324,Roko-Leni Ukic,Milwaukee Bucks,1350000
+2012,325,Omri Casspi,Cleveland Cavaliers,1341960
+2012,326,Hamed Ehaddadi,Memphis Grizzlies,1300000
+2012,327,Trevor Booker,Washington Wizards,1294920
+2012,328,Byron Mullens,Charlotte Bobcats,1288200
+2012,329,Serge Ibaka,Oklahoma City Thunder,1288200
+2012,330,Kenneth Faried,Denver Nuggets,1254720
+2012,331,Damion James,New Jersey Nets,1243080
+2012,332,Rodrigue Beaubois,Dallas Mavericks,1236720
+2012,333,Brian Cook,Washington Wizards,1223166
+2012,334,Royal Ivey,Oklahoma City Thunder,1200000
+2012,335,Taj Gibson,Chicago Bulls,1195680
+2012,336,Dominique Jones,Dallas Mavericks,1193280
+2012,337,Sam Young,Philadelphia 76ers,1184750
+2012,338,Earl Clark,Orlando Magic,1160000
+2012,339,Reggie Jackson,Oklahoma City Thunder,1156320
+2012,340,Wayne Ellington,Minnesota Timberwolves,1154040
+2012,341,Quincy Pondexter,Memphis Grizzlies,1153800
+2012,342,Toney Douglas,New York Knicks,1145640
+2012,343,Jordan Hamilton,Denver Nuggets,1121520
+2012,344,Jordan Crawford,Washington Wizards,1120440
+2012,345,Greivis Vasquez,New Orleans Hornets,1113600
+2012,346,Stephen Graham,Milwaukee Bucks,1106941
+2012,347,Joey Graham,Cleveland Cavaliers,1106941
+2012,348,Daniel Orton,Orlando Magic,1105560
+2012,349,Christian Eyenga,Los Angeles Lakers,1097520
+2012,350,Lazar Hayward,Oklahoma City Thunder,1097520
+2012,351,Cory Joseph,San Antonio Spurs,1074720
+2012,352,Alando Tucker,Minnesota Timberwolves,1071720
+2012,353,Von Wafer,Orlando Magic,1069509
+2012,354,MarShon Brooks,New Jersey Nets,1063865
+2012,355,Stephen Jackson,San Antonio Spurs,1059750
+2012,356,DeJuan Blair,San Antonio Spurs,1054000
+2012,357,JaJuan Johnson,Boston Celtics,1042320
+2012,358,Quinton Ross,Brooklyn Nets,1033342
+2012,359,Jawad Williams,Cleveland Cavaliers,1029389
+2012,360,Earl Barron,Golden State Warriors,1027424
+2012,361,Jimmy Butler III,Chicago Bulls,1020960
+2012,362,Jon Brockman,Milwaukee Bucks,1000000
+2012,363,Jeremy Pargo,Memphis Grizzlies,1000000
+2012,364,Shavlik Randolph,Denver Nuggets,992680
+2012,365,Ian Mahinmi,Dallas Mavericks,915852
+2012,366,John Lucas III,Chicago Bulls,915852
+2012,367,Brandan Wright,Dallas Mavericks,915852
+2012,368,Henry Walker,New York Knicks,885120
+2012,369,DeMarre Carroll,Utah Jazz,885120
+2012,370,Alexander Johnson,Miami Heat,885120
+2012,371,Pops Mensah-Bonsu,Denver Nuggets,885120
+2012,372,Salim Stoudamire,Atlanta Hawks,884881
+2012,373,Patrick Ewing Jr.,New Orleans Pelicans,884293
+2012,374,Quincy Douby,Sacramento Kings,855189
+2012,375,Marcus Haislip,San Antonio Spurs,855189
+2012,376,Mouhamed Sene,New York Knicks,855189
+2012,377,Anthony Roberson,Chicago Bulls,855189
+2012,378,Tarence Kinsey,Golden State Warriors,855189
+2012,379,Javaris Crittenton,Washington Wizards,854389
+2012,380,Jannero Pargo,Atlanta Hawks,854389
+2012,381,Darius Miles,Memphis Grizzlies,854389
+2012,382,Kyle Weaver,Memphis Grizzlies,854389
+2012,383,Derrick Byars,San Antonio Spurs,854389
+2012,384,Luke Jackson,Miami Heat,854389
+2012,385,Josh Davis,Memphis Grizzlies,854389
+2012,386,Kenny Thomas,Sacramento Kings,854389
+2012,387,Jodie Meeks,Philadelphia 76ers,854389
+2012,388,Mickael Pietrus,Boston Celtics,854389
+2012,389,Jamaal Magloire,Toronto Raptors,854389
+2012,390,Melvin Ely,Washington Wizards,854389
+2012,391,Maurice Evans,Washington Wizards,854389
+2012,392,Hassan Whiteside,Sacramento Kings,854389
+2012,393,Dominic McGuire,Golden State Warriors,854389
+2012,394,Mike Harris,Utah Jazz,854389
+2012,395,Dwayne Jones II,Utah Jazz,854389
+2012,396,Derrick Brown,Charlotte Bobcats,854389
+2012,397,Malik Hairston,San Antonio Spurs,854389
+2012,398,Tracy McGrady,Atlanta Hawks,854389
+2012,399,Trey Johnson,New Orleans Hornets,854389
+2012,400,Antoine Wright,Sacramento Kings,854389
+2012,401,Sean May,Sacramento Kings,854389
+2012,402,Luther Head,Sacramento Kings,854389
+2012,403,Reggie Evans,LA Clippers,854389
+2012,404,Roger Mason Jr.,Washington Wizards,854389
+2012,405,Coby Karl,Denver Nuggets,854389
+2012,406,Craig Smith,Portland Trail Blazers,854389
+2012,407,Fabricio Oberto,Portland Trail Blazers,854389
+2012,408,Sasha Pavlovic,Boston Celtics,854389
+2012,409,Jared Jeffries,New York Knicks,854389
+2012,410,A.J. Price,Indiana Pacers,854389
+2012,411,Ronnie Price,Phoenix Suns,854389
+2012,412,Danny Green,San Antonio Spurs,854389
+2012,413,Sonny Weems,Philadelphia 76ers,854389
+2012,414,Francisco Elson,Philadelphia 76ers,854389
+2012,415,Tony Battie,Philadelphia 76ers,854389
+2012,416,Willie Green,Atlanta Hawks,854389
+2012,417,Larry Hughes,Orlando Magic,854389
+2012,418,Malik Allen,Orlando Magic,854389
+2012,419,DaJuan Summers,New Orleans Hornets,854389
+2012,420,Didier Ilunga-Mbenga,New York Knicks,854389
+2012,421,Baron Davis,New York Knicks,854389
+2012,422,Mike Bibby,New York Knicks,854389
+2012,423,Chase Budinger,Houston Rockets,854389
+2012,424,Jason Collins,Atlanta Hawks,854389
+2012,425,Jerry Stackhouse,Atlanta Hawks,854389
+2012,426,Shelden Williams,New Jersey Nets,854389
+2012,427,Maurice Ager,Minnesota Timberwolves,854389
+2012,428,Rasual Butler,Toronto Raptors,854389
+2012,429,Steve Novak,New York Knicks,854389
+2012,430,Marquis Daniels,Boston Celtics,854389
+2012,431,Josh Powell,Milwaukee Bucks,854389
+2012,432,Juwan Howard,Miami Heat,854389
+2012,433,Joe Smith,Los Angeles Lakers,854389
+2012,434,Theo Ratliff,Los Angeles Lakers,854389
+2012,435,Sundiata Gaines,New Jersey Nets,854389
+2012,436,Darnell Jackson,Indiana Pacers,854389
+2012,437,Damien Wilkins,Detroit Pistons,854389
+2012,438,Joe Alexander,Golden State Warriors,854389
+2012,439,Hilton Armstrong,Golden State Warriors,854389
+2012,440,Jason Kapono,Los Angeles Lakers,854389
+2012,441,T.J. Ford,San Antonio Spurs,854389
+2012,442,Alonzo Gee,Cleveland Cavaliers,854389
+2012,443,Joey Dorsey,Barcelona FC Barcelona,854389
+2012,444,Anthony Carter,Toronto Raptors,854389
+2012,445,Delonte West,Dallas Mavericks,854389
+2012,446,Troy Murphy,Los Angeles Lakers,854389
+2012,447,Eddy Curry,Miami Heat,854389
+2012,448,Tim Thomas,Dallas Mavericks,854389
+2012,449,Brian Cardinal,Dallas Mavericks,854389
+2012,450,Chris Richard,Chicago Bulls,854389
+2012,451,Brian Scalabrine,Chicago Bulls,854389
+2012,452,Vladimir Radmanovic,Atlanta Hawks,854389
+2012,453,Chris Douglas-Roberts,New Orleans Pelicans,854389
+2012,454,D.J. Strawberry,Phoenix Suns,854389
+2012,455,Gary Neal,San Antonio Spurs,854389
+2012,456,Etan Thomas,Atlanta Hawks,854389
+2012,457,Chandler Parsons,Houston Rockets,850000
+2012,458,Solomon Alabi,Toronto Raptors,830000
+2012,459,Michael Redd,Phoenix Suns,826828
+2012,460,Paul Davis,Washington Wizards,825497
+2012,461,Kevin Ollie,Oklahoma City Thunder,825497
+2012,462,Ryan Bowen,Oklahoma City Thunder,825497
+2012,463,Desmond Mason,Sacramento Kings,825497
+2012,464,Linton Johnson,Chicago Bulls,825497
+2012,465,James White,New York Knicks,825497
+2012,466,Jason Hart,New Orleans Pelicans,825497
+2012,467,Kareem Rush,LA Clippers,825497
+2012,468,Jermareo Davidson,Golden State Warriors,825497
+2012,469,Marcus Williams,Denver Nuggets,825497
+2012,470,Lindsey Hunter,Phoenix Suns,825497
+2012,471,Gabe Pruitt,Boston Celtics,825497
+2012,472,Lance Stephenson,Indiana Pacers,810000
+2012,473,Tyler Honeycutt,Sacramento Kings,809875
+2012,474,Chris Quinn,Cleveland Cavaliers,804131
+2012,475,Sean Marks,Portland Trail Blazers,799105
+2012,476,Ike Diogu,San Antonio Spurs,792377
+2012,477,Solomon Jones,New Orleans Hornets,792377
+2012,478,Andy Rautins,Toronto Raptors,788872
+2012,479,Marcus Cousin,San Antonio Spurs,788872
+2012,480,Da'Sean Butler,null Unknown,788872
+2012,481,Robert Vaden,San Antonio Spurs,788872
+2012,482,Zabian Dowdell,Phoenix Suns,788872
+2012,483,Terrico White,Perth Perth,788872
+2012,484,Marqus Blakely,Houston Rockets,788872
+2012,485,Willie Warren,LA Clippers,788872
+2012,486,Pape Sy,Atlanta Hawks,788872
+2012,487,Magnum Rolle,null Unknown,788872
+2012,488,Nate Robinson,Golden State Warriors,785487
+2012,489,Jermaine Taylor,Cleveland Cavaliers,780871
+2012,490,Yi Jianlian,Dallas Mavericks,771706
+2012,491,Tony Gaffney,Memphis Grizzlies,762195
+2012,492,Jeremy Lin,New York Knicks,762195
+2012,493,Landry Fields,New York Knicks,762195
+2012,494,Brian Butch,Utah Jazz,762195
+2012,495,Hamady Ndiaye,Washington Wizards,762195
+2012,496,Greg Stiemsma,Boston Celtics,762195
+2012,497,Isaiah Thomas,Sacramento Kings,762195
+2012,498,Garret Siler,Phoenix Suns,762195
+2012,499,Taylor Griffin,Phoenix Suns,762195
+2012,500,Darington Hobson,Milwaukee Bucks,762195
+2012,501,Kenny Hasbrouck,null Unknown,762195
+2012,502,Derrick Caracter,Flamengo Flamengo,762195
+2012,503,Devin Ebanks,Los Angeles Lakers,762195
+2012,504,Chris Johnson,New Orleans Hornets,762195
+2012,505,Samardo Samuels,Cleveland Cavaliers,762195
+2012,506,Luke Harangody,Cleveland Cavaliers,762195
+2012,507,Semih Erden,Cleveland Cavaliers,762195
+2012,508,Curtis Jerrells,null Unknown,762195
+2012,509,Oliver Lafayette,Milan Olimpia,762195
+2012,510,Jeremy Evans,Utah Jazz,762195
+2012,511,Dexter Pittman,Miami Heat,762195
+2012,512,Dontell Jefferson,Charlotte Hornets,736420
+2012,513,Mike Taylor,LA Clippers,736420
+2012,514,Joe Crawford,New York Knicks,736420
+2012,515,Sun Yue,Los Angeles Lakers,736420
+2012,516,Walter Sharpe,Detroit Pistons,736420
+2012,517,DeMarcus Nelson,Chicago Bulls,736420
+2012,518,Othello Hunter,Madrid Real Madrid,736420
+2012,519,Ime Udoka,Brooklyn Nets,708640
+2012,520,Mike Wilks,Oklahoma City Thunder,679821
+2012,521,Brian Skinner,Memphis Grizzlies,668434
+2012,522,Allen Iverson,Philadelphia 76ers,650686
+2012,523,Jeremy Tyler,Golden State Warriors,650000
+2012,524,Acie Law,Golden State Warriors,633253
+2012,525,Josh Selby,Memphis Grizzlies,550000
+2012,526,Trey Thompkins,LA Clippers,535000
+2012,527,Erick Dampier,Atlanta Hawks,530547
+2012,528,Jason Williams,Orlando Magic,524964
+2012,529,Ish Smith,Orlando Magic,522472
+2012,530,Travis Leslie,LA Clippers,500000
+2012,531,Malcolm Lee,Minnesota Timberwolves,500000
+2012,532,Ryan Reid,Oklahoma City Thunder,475000
+2012,533,Cory Higgins,Charlotte Bobcats,473604
+2012,534,Shelvin Mack,Washington Wizards,473604
+2012,535,Josh Harrellson,New York Knicks,473604
+2012,536,Lavoy Allen,Philadelphia 76ers,473604
+2012,537,Chris Wright,Golden State Warriors,473604
+2012,538,Sherron Collins,Charlotte Hornets,473604
+2012,539,Pooh Jeter,Sacramento Kings,473604
+2012,540,Terrel Harris,Miami Heat,473604
+2012,541,Charles Jenkins,Golden State Warriors,473604
+2012,542,Justin Harper,Orlando Magic,473604
+2012,543,E'Twaun Moore,Boston Celtics,473604
+2012,544,Stanley Robinson,null Unknown,473604
+2012,545,Mychel Thompson,Cleveland Cavaliers,473604
+2012,546,Dennis Horner,New Jersey Nets,473604
+2012,547,Jordan Williams,New Jersey Nets,473604
+2012,548,Brian Zoubek,null Unknown,473604
+2012,549,Greg Smith,Houston Rockets,473604
+2012,550,Jon Leuer,Milwaukee Bucks,473604
+2012,551,Tiny Gallon,null Unknown,473604
+2012,552,Patrick Beverley,Milwaukee Bucks,473604
+2012,553,DeAndre Liggins,Orlando Magic,473604
+2012,554,Andrew Goudelock,Los Angeles Lakers,473604
+2012,555,Matt Janning,Denver Nuggets,473604
+2012,556,Ivan Johnson,Atlanta Hawks,473604
+2012,557,Julyan Stone,Denver Nuggets,473604
+2012,558,Tyshawn Taylor,New Orleans Pelicans,473604
+2012,559,Darius Morris,Los Angeles Lakers,473604
+2012,560,Vernon Macklin,Detroit Pistons,473604
+2012,561,Jerome Jordan,New York Knicks,473604
+2012,562,Carldell Johnson,New Orleans Hornets,473604
+2012,563,Trey Gilder,Utah Jazz,457588
+2012,564,Marcus Landry,Milwaukee Bucks,457588
+2012,565,Deron Washington,null Unknown,457588
+2012,566,Kyrylo Fesenko,Indiana Pacers,435000
+2012,567,Joel Przybilla,Portland Trail Blazers,420304
+2012,568,Gerald Green,New Jersey Nets,413413
+2012,569,Peja Stojakovic,Dallas Mavericks,402065
+2012,570,Walker Russell Jr.,Detroit Pistons,374300
+2012,571,Ronny Turiaf,Miami Heat,319128
+2012,572,Lance Thomas,New Orleans Hornets,305551
+2012,573,Kelenna Azubuike,Dallas Mavericks,280192
+2012,574,Gilbert Arenas,Memphis Grizzlies,261829
+2012,575,Terrence Williams,Sacramento Kings,254938
+2012,576,Manny Harris,Cleveland Cavaliers,252016
+2012,577,Ryan Hollins,Boston Celtics,248048
+2012,578,Boris Diaw,San Antonio Spurs,241158
+2012,579,Bobby Simmons,LA Clippers,234268
+2012,580,Mustafa Shakur,Oklahoma City Thunder,226162
+2012,581,Earl Boykins,Houston Rockets,220487
+2012,582,Mike James,Chicago Bulls,220487
+2012,583,Alan Anderson,Toronto Raptors,213597
+2012,584,Patty Mills,San Antonio Spurs,213517
+2012,585,Al Thornton,Golden State Warriors,211084
+2012,586,Travis Diener,Portland Trail Blazers,208802
+2012,587,Leon Powe,Memphis Grizzlies,201033
+2012,588,Cartier Martin,Washington Wizards,199816
+2012,589,Carlos Arroyo,Boston Celtics,196007
+2012,590,Ben Uzoh,Toronto Raptors,190548
+2012,591,Donald Sloan,Cleveland Cavaliers,160414
+2012,592,Courtney Fortson,Houston Rockets,156595
+2012,593,James Singleton,Washington Wizards,151585
+2012,594,Mickell Gladness,Golden State Warriors,137498
+2012,595,Blake Ahearn,Utah Jazz,117134
+2012,596,Armon Johnson,New Jersey Nets,104494
+2012,597,Jamario Moon,Charlotte Bobcats,96017
+2012,598,Garrett Temple,Toronto Raptors,80703
+2012,599,Morris Almond,Washington Wizards,75793
+2012,600,Mikki Moore,Golden State Warriors,75793
+2012,601,Dan Gadzuric,New York Knicks,69393
+2012,602,Jerome Dyson,New Orleans Hornets,64930
+2012,603,Diamon Simpson,Houston Rockets,57291
+2012,604,Darryl Watkins,New Orleans Hornets,55321
+2012,605,Sean Williams,Boston Celtics,49966
+2012,606,Lester Hudson,Memphis Grizzlies,48232
+2012,607,Cedric Jackson,Cleveland Cavaliers,40375
+2012,608,Jeff Foote,New Orleans Hornets,38194
+2012,609,Othyus Jeffers,Minnesota Timberwolves,35868
+2012,610,D.J. Kennedy,Cleveland Cavaliers,22916
+2012,611,Larry Owens,New Jersey Nets,22287
+2012,612,Mario West,Brooklyn Nets,20103
+2012,613,Xavier Silas,Philadelphia 76ers,11458
