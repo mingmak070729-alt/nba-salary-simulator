@@ -1,0 +1,213 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import time
+import re
+from time import sleep
+import random
+
+
+
+
+
+def fetch_page_with_retry(url, headers, max_retries=5):
+    """Fetch URL with robust retry logic and exponential backoff"""
+    for attempt in range(max_retries):
+        try:
+            # Vary user-agent to avoid blocking
+            user_agents = [
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3',
+                'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0'
+            ]
+            headers['User-Agent'] = random.choice(user_agents)
+
+            response = requests.get(url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            # Verify we got actual content
+            if len(response.text) < 5000:
+                raise ValueError("Incomplete page content")
+
+            return response
+
+        except (requests.exceptions.RequestException, ValueError) as e:
+            if attempt < max_retries - 1:
+                wait_time = 2 ** attempt + random.uniform(0.5, 1.5)
+                print(f"Attempt {attempt + 1} failed. Retrying in {wait_time:.1f} seconds... Error: {e}")
+                sleep(wait_time)
+            else:
+                print(f"Failed after {max_retries} attempts for {url}")
+                raise
+
+
+def process_salary_page(response, year, page):
+    """Process HTML content to extract salary data"""
+    soup = BeautifulSoup(response.text, 'html.parser')
+    page_data = []
+
+    # Find table using multiple possible class names
+    table = None
+    for class_name in ['tablehead', 'Table', 'responsive-table']:
+        table = soup.find('table', {'class': class_name})
+        if table:
+            break
+
+    if not table:
+        # Try to find table by data behavior
+        table = soup.find('table', {'data-behavior': 'responsive_table'})
+
+    if not table:
+        print(f"No table found on page {page}")
+        return page_data
+
+    # Extract data rows
+    rows = []
+    tbody = table.find('tbody')
+    if tbody:
+        rows = tbody.find_all('tr')
+    else:
+        rows = table.find_all('tr', class_=lambda x: x in ['oddrow', 'evenrow', None])
+
+    # Filter out header rows
+    data_rows = [row for row in rows if not row.find('th')]
+
+    if not data_rows:
+        print(f"No data rows found on page {page}")
+        return page_data
+
+    # Process rows
+    for row in data_rows:
+        cols = row.find_all('td')
+        if len(cols) >= 4:
+            rank = cols[0].text.strip()
+
+            # Player name extraction
+            player_cell = cols[1]
+            player_link = player_cell.find('a')
+            if player_link:
+                player = player_link.text.strip()
+            else:
+                player_text = player_cell.text.strip()
+                player = player_text.split(',')[0].strip()
+
+            team = cols[2].text.strip()
+
+            # Salary extraction - try multiple columns
+            salary_text = None
+            for i in range(3, min(5, len(cols))):
+                if '$' in cols[i].text:
+                    salary_text = cols[i].text
+                    break
+
+            if salary_text:
+                salary = clean_salary(salary_text)
+                page_data.append([year, rank, player, team, salary])
+
+    return page_data
+
+
+def fetch_salaries(year):
+    """Retrieve NBA salaries for a given season year with robust error handling"""
+    base_url = f"https://www.espn.com/nba/salaries/_/year/{year}/seasontype/4"
+    all_data = []
+    page = 1
+    headers = {
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Referer': 'https://www.espn.com/',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+    }
+
+    max_page_retries = 3  # Max attempts per page
+
+    while True:
+        # Build URL with ESPN's pagination pattern
+        if page == 1:
+            url = base_url
+        else:
+            url = f"https://www.espn.com/nba/salaries/_/year/{year}/page/{page}/seasontype/4"
+
+        print(f"Fetching page {page} for {year}...")
+
+        page_success = False
+        page_data = []
+
+        for attempt in range(max_page_retries):
+            try:
+                # Step 1: Fetch page with retry
+                response = fetch_page_with_retry(url, headers)
+
+                # Step 2: Process page content
+                page_data = process_salary_page(response, year, page)
+
+                if page_data:
+                    all_data.extend(page_data)
+                    print(f"Processed {len(page_data)} records on page {page}")
+                    page_success = True
+                    break  # Break out of retry loop on success
+                else:
+                    print(f"No data found on page {page}, attempt {attempt + 1}")
+                    sleep(2)
+
+            except Exception as e:
+                print(f"Page processing error (attempt {attempt + 1}): {e}")
+                if attempt < max_page_retries - 1:
+                    wait_time = 3 + attempt * 2
+                    print(f"Retrying page in {wait_time} seconds...")
+                    sleep(wait_time)
+
+        if not page_success:
+            print(f"Giving up on page {page} after {max_page_retries} attempts")
+            break
+
+        # Check if we should continue to next page
+        if len(page_data) < 40:  # Last page has fewer records
+            print(f"Last page detected with only {len(page_data)} records")
+            break
+
+        # Always try next page
+        page += 1
+        time.sleep(1.5 + random.uniform(0, 1))  # Variable delay
+
+    return all_data
+
+
+# Main execution
+if __name__ == "__main__":
+    all_salaries = []
+
+    for year in range(2000, 2026):
+        print(f"\n{'=' * 50}")
+        print(f"Fetching {year} season data...")
+        try:
+            year_data = fetch_salaries(year)
+            record_count = len(year_data)
+            print(f"Retrieved {record_count} records for {year}")
+            all_salaries.extend(year_data)
+
+            # Save incremental progress
+            if year_data:
+                df_year = pd.DataFrame(year_data, columns=['Year', 'Rank', 'Player', 'Team', 'Salary'])
+                df_year.to_csv(f'nba_salaries_{year}.csv', index=False)
+                print(f"Saved {year} data to temporary file")
+
+        except Exception as e:
+            print(f"Critical error processing year {year}: {e}")
+            continue
+
+    # Create final DataFrame and save to CSV
+    if all_salaries:
+        columns = ['Year', 'Rank', 'Player', 'Team', 'Salary']
+        df = pd.DataFrame(all_salaries, columns=columns)
+
+        # Clean data
+        df = df.drop_duplicates()
+        df = df[df['Salary'] > 0]  # Remove invalid salary entries
+
+        # Save to CSV
+        df.to_csv('nba_salaries_2000_2025.csv', index=False)
+        print("\n" + "=" * 50)
+        print("Successfully saved data to nba_salaries_2000_2025.csv")
+        print(f"Total records: {len(df)}")
+    else:
+        print("No data retrieved. Output file not created.")
