@@ -1,0 +1,117 @@
+import pandas as pd
+import time
+from pathlib import Path
+from nba_api.stats.endpoints import leaguedashplayerstats
+
+def get_season_string(year):
+    """
+    Converts integer year (2000) to NBA API Season format ('1999-00').
+    Assumes the year in your CSV is the season END year (e.g., 2000 = 1999-2000 season).
+    """
+    start_year = year - 1
+    end_year_short = str(year)[-2:]
+    return f"{start_year}-{end_year_short}"
+
+def merge_salaries_with_api_stats():
+    # --- CONFIGURATION ---
+    salary_csv = r"C:\Users\user\PycharmProjects\nbasalary\無標題的試算表 - nba_salaries_combined (3).csv"
+    output_file = "nba_salaries_with_performance_stats.csv"
+
+    # 1. Read Salary Data
+    if not Path(salary_csv).exists():
+        print(f"Error: CSV file not found at {salary_csv}")
+        return
+
+    print("Reading salary data...")
+    salary_df = pd.read_csv(salary_csv)
+    
+    # Create clean name for matching
+    salary_df['clean_name'] = salary_df['Player'].str.lower().str.replace(r'[^a-z\s]', '', regex=True).str.strip()
+    
+    # Get unique years to process
+    years = sorted(salary_df['Year'].unique())
+    print(f"Processing {len(years)} seasons from {min(years)} to {max(years)}...")
+
+    all_stats_list = []
+
+    # 2. Loop through years and fetch data
+    for year in years:
+        season_str = get_season_string(year)
+        print(f"Fetching stats for Season {season_str} (Year {year})...")
+
+        try:
+            # Fetch data from NBA API
+            # MeasureType='Base' gives us Points, Rebounds, Assists, etc.
+            api_call = leaguedashplayerstats.LeagueDashPlayerStats(
+                season=season_str,
+                per_mode_detailed='PerGame' # Get Per Game stats (PPG, RPG) instead of Totals
+            )
+            stats_df = api_call.get_data_frames()[0]
+
+            if stats_df.empty:
+                print(f"  Warning: No data returned for {season_str}")
+                continue
+
+            # Select only the columns we care about to keep the file size manageable
+            # GP = Games Played, MIN = Minutes, PTS = Points, REB = Rebounds, AST = Assists
+            cols_to_keep = ['PLAYER_NAME', 'GP', 'MIN', 'PTS', 'REB', 'AST', 'STL', 'BLK', 'FG_PCT', 'FG3_PCT']
+            stats_df = stats_df[cols_to_keep].copy()
+
+            # Add a year column to this batch of stats so we can merge later
+            stats_df['Year'] = year
+            
+            # Create clean name for matching
+            stats_df['clean_name'] = stats_df['PLAYER_NAME'].str.lower().str.replace(r'[^a-z\s]', '', regex=True).str.strip()
+            
+            all_stats_list.append(stats_df)
+            
+            print(f"  > Successfully fetched {len(stats_df)} players.")
+            
+            # IMPORTANT: Pause to be polite to the API
+            time.sleep(1.0)
+
+        except Exception as e:
+            print(f"  > Error fetching {season_str}: {e}")
+            time.sleep(2.0) # Wait a bit longer if there was an error
+
+    # 3. Combine all stats into one big dataframe
+    if not all_stats_list:
+        print("No stats were fetched. Exiting.")
+        return
+
+    print("\nCombining fetched data...")
+    all_stats_df = pd.concat(all_stats_list, ignore_index=True)
+
+    # 4. Merge with Salary Data
+    print("Merging Salary Data with Performance Stats...")
+    
+    # Merge on 'clean_name' AND 'Year'
+    final_df = pd.merge(
+        salary_df,
+        all_stats_df,
+        on=['clean_name', 'Year'],
+        how='left'
+    )
+
+    # 5. Clean up columns
+    # Drop the helper 'clean_name' and the duplicate 'PLAYER_NAME' from the API
+    if 'clean_name' in final_df.columns:
+        final_df.drop(columns=['clean_name'], inplace=True)
+    if 'PLAYER_NAME' in final_df.columns:
+        final_df.drop(columns=['PLAYER_NAME'], inplace=True)
+
+    # 6. Save
+    final_df.to_csv(output_file, index=False)
+    
+    # Calculate success rate
+    matched = final_df['PTS'].notna().sum()
+    total = len(final_df)
+    print(f"\nDone! Saved to {output_file}")
+    print(f"Matches found: {matched} / {total} ({matched/total*100:.1f}%)")
+    
+    # Show sample
+    print("\nSample Rows:")
+    print(final_df[['Year', 'Player', 'Salary', 'PTS', 'AST', 'REB']].head())
+
+if __name__ == "__main__":
+    merge_salaries_with_api_stats()
